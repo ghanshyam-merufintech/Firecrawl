@@ -1,0 +1,40 @@
+slug,name,category,free_tier,entry_price,mid_price,detected_tiers,min_seats,last_updated
+pipedrive,Pipedrive,Sales CRM,Yes,$24,$49,"Free, Pro, Growth, Premium, Ultimate",1 seat,2026-10-29
+zoho-crm,Zoho CRM,Broad Suite CRM,Yes,$7,$100,"Free, Business, Standard, Pro, Professional",1 seat,2026-10-29
+gohighlevel,GoHighLevel,Agency / All-in-One CRM,No,$297,$594,"Free, Business, Premium, Pro, Starter",1 seat,2026-10-29
+close,Close,Inside Sales CRM,No,$9,$99,"Free, Essential, Plus, Growth, Scale",1 seat,2026-10-29
+thryv,Thryv,Small Business CRM,No,$99,$646,"Business, Pro, Growth, Professional, Free",1 seat,2026-10-29
+hubspot,HubSpot,Inbound Marketing & CRM Suite,No,$7,$95,"Starter, Pro, Growth, Professional, Free",1 seat,2026-10-29
+freshsales,Freshsales,Sales CRM,No,$9,$39,"Growth, Free, Business, Pro, Plus",1 seat,2026-10-29
+salesforce,Salesforce Starter,Enterprise CRM,No,$35,$273,"Plus, Starter, Free, Business, Pro",1 seat,2026-10-29
+activecampaign,ActiveCampaign,Marketing Automation & CRM,No,$15,$79,"Business, Enterprise, Pro, Premium, Professional",1 seat,2026-10-29
+copper,Copper CRM,Google Workspace CRM,No,$29,$79,"Pro, Free, Professional, Business, Premium",1 seat,2026-10-29
+insightly,Insightly,Project & Sales CRM,Yes,$29,$349,"Pro, Plus, Free, Business, Professional",1 seat,2026-10-29
+keap,Keap,Sales & Marketing Automation,No,$249,$299,"Business, Scale, Pro, Growth, Free",1 seat,2026-10-29
+capsule,Capsule CRM,Simple CRM,Yes,$11,$50,"Free, Pro, Standard, Professional, Business",1 seat,2026-10-29
+pipedrive,Pipedrive,Sales CRM,Yes,$24,$49,"Free, Pro, Growth, Premium, Ultimate",1 seat,2026-10-29
+zoho-crm,Zoho CRM,Broad Suite CRM,Yes,$20,$100,"Free, Business, Standard, Pro, Professional",1 seat,2026-10-29
+gohighlevel,GoHighLevel,Agency / All-in-One CRM,No,$97,$194,"Free, Business, Premium, Pro, Starter",1 seat,2026-10-29
+close,Close,Inside Sales CRM,No,$19,$99,"Free, Essential, Plus, Growth, Scale",1 seat,2026-10-29
+thryv,Thryv,Small Business CRM,No,$99,$646,"Business, Pro, Growth, Professional, Free",1 seat,2026-10-29
+hubspot,HubSpot,Inbound Marketing & CRM Suite,Yes,$20,$95,"Starter, Pro, Growth, Professional, Free",1 seat,2026-10-29
+freshsales,Freshsales,Sales CRM,No,$15,$39,"Growth, Free, Business, Pro, Plus",1 seat,2026-10-29
+salesforce-starter,Salesforce Starter,Enterprise CRM,No,$25,$273,"Plus, Starter, Free, Business, Pro",1 seat,2026-10-29
+activecampaign,ActiveCampaign,Marketing Automation & CRM,No,$29,$79,"Business, Enterprise, Pro, Premium, Professional",1 seat,2026-10-29
+copper,Copper CRM,Google Workspace CRM,No,$29,$58,"Pro, Free, Professional, Business, Premium",1 seat,2026-10-29
+insightly,Insightly,Project & Sales CRM,Yes,$29,$349,"Pro, Plus, Free, Business, Professional",1 seat,2026-10-29
+keap,Keap,Sales & Marketing Automation,No,$149,$299,"Business, Scale, Pro, Growth, Free",1 seat,2026-10-29
+capsule,Capsule CRM,Simple CRM,Yes,$18,$50,"Free, Pro, Standard, Professional, Business",1 seat,2026-10-29
+nutshell,Nutshell,Sales CRM & Email Marketing,No,$19,$15,"Pro, Business, Free, Growth, Enterprise",1 seat,2026-10-29
+nimble,Nimble,Social CRM,No,$10,$29,"Business, Pro, Free, Professional, Scale",1 seat,2026-10-29
+sugar-crm,SugarCRM,Mid-Market CRM,No,$19,$80,"Business, Pro, Enterprise, Free, Essential",1 seat,2026-10-29
+bitrix24,Bitrix24,All-in-One Collaboration & CRM,Yes,$49,$87,"Business, Pro, Plus, Free, Enterprise",1 seat,2026-10-29
+less-annoying-crm,Less Annoying CRM,Simple Flat-Rate CRM,Yes,$15,$30,"Free, Pro, Business, Scale, Essential",1 seat,2026-10-29
+pipeline-crm,Pipeline CRM,Sales Pipeline Management,Yes,$16,$85,"Free, Standard, Enterprise, Premium, Growth",1 seat,2026-10-29
+nethunt,NetHunt CRM,Gmail-Integrated CRM,No,$19,$84,"Essential, Free, Plus, Business, Professional",1 seat,2026-10-29
+bigin,Bigin by Zoho,Pipeline-Centric Micro CRM,No,$7,$18,"Free, Pro, Standard, Business, Professional",1 seat,2026-10-29
+vtiger,Vtiger CRM,All-in-One CRM,Yes,$12,$42,"Free, Standard, Growth, Business, Professional",1 seat,2026-10-29
+apptivo,Apptivo,Business App Suite CRM,Yes,$20,$30,"Pro, Free, Business, Enterprise, Premium",1 seat,2026-10-29
+agile-crm,Agile CRM,All-in-One CRM,Yes,$9,$14,"Free, Business, Pro, Premium, Starter",1 seat,2026-10-29
+really-simple-systems,Really Simple Systems,B2B CRM,No,$10,$67,"Business, Free, Enterprise, Pro, Essential",1 seat,2026-10-29
+salesflare,Salesflare,Automated B2B CRM,No,$29,$64,"Free, Growth, Plus, Pro, Scale",1 seat,2026-10-29

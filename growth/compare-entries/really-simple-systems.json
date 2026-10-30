@@ -1,0 +1,17 @@
+{
+  "slug": "really-simple-systems",
+  "name": "Really Simple Systems",
+  "category": "B2B CRM",
+  "pricing": {
+    "entry_price": "$10",
+    "mid_price": "$67",
+    "hgc_price": "$12/user/month",
+    "hgc_india_price": "\u20b9899/user/month",
+    "all_features_included": true
+  },
+  "key_differentiators": [
+    "HelloGrowthCRM includes all 456+ features for $12 flat vs Really Simple Systems's tier paywalls",
+    "Native WhatsApp Business CRM and built-in VoIP calling included",
+    "Integrated e-signatures and invoicing without third-party tool costs"
+  ]
+}

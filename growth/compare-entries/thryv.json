@@ -1,0 +1,17 @@
+{
+  "slug": "thryv",
+  "name": "Thryv",
+  "category": "Small Business CRM",
+  "pricing": {
+    "entry_price": "$99",
+    "mid_price": "$646",
+    "hgc_price": "$12/user/month",
+    "hgc_india_price": "\u20b9899/user/month",
+    "all_features_included": true
+  },
+  "key_differentiators": [
+    "HelloGrowthCRM includes all 456+ features for $12 flat vs Thryv's tier paywalls",
+    "Native WhatsApp Business CRM and built-in VoIP calling included",
+    "Integrated e-signatures and invoicing without third-party tool costs"
+  ]
+}

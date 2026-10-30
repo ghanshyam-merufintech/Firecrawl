@@ -1,0 +1,4507 @@
+{
+  "total_count": 500,
+  "created_at": "2026-10-29T15:00:00Z",
+  "description": "500 Competitor Queue for HelloGrowthCRM Continuous Autonomous Research",
+  "queue": [
+    {
+      "id": 1,
+      "slug": "pipedrive",
+      "name": "Pipedrive",
+      "domain": "pipedrive.com",
+      "category": "Sales CRM",
+      "icp": "SMB sales teams",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "slug": "zoho-crm",
+      "name": "Zoho CRM",
+      "domain": "zoho.com/crm",
+      "category": "Broad Suite CRM",
+      "icp": "Growing SMB to mid-market",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "slug": "gohighlevel",
+      "name": "GoHighLevel",
+      "domain": "gohighlevel.com",
+      "category": "Agency / All-in-One CRM",
+      "icp": "Marketing agencies and local businesses",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "slug": "close",
+      "name": "Close",
+      "domain": "close.com",
+      "category": "Inside Sales CRM",
+      "icp": "High-velocity tech/startup sales teams",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "slug": "thryv",
+      "name": "Thryv",
+      "domain": "thryv.com",
+      "category": "Small Business CRM",
+      "icp": "Local service businesses and trades",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "slug": "hubspot",
+      "name": "HubSpot",
+      "domain": "hubspot.com",
+      "category": "Inbound Marketing & CRM Suite",
+      "icp": "Scale-ups to enterprise",
+      "status": "completed"
+    },
+    {
+      "id": 7,
+      "slug": "freshsales",
+      "name": "Freshsales",
+      "domain": "freshworks.com/crm/sales",
+      "category": "Sales CRM",
+      "icp": "SMB to mid-market sales teams",
+      "status": "completed"
+    },
+    {
+      "id": 8,
+      "slug": "salesforce-starter",
+      "name": "Salesforce Starter",
+      "domain": "salesforce.com",
+      "category": "Enterprise CRM",
+      "icp": "Cross-market enterprise & starter",
+      "status": "completed"
+    },
+    {
+      "id": 9,
+      "slug": "activecampaign",
+      "name": "ActiveCampaign",
+      "domain": "activecampaign.com",
+      "category": "Marketing Automation & CRM",
+      "icp": "E-commerce & digital agencies",
+      "status": "completed"
+    },
+    {
+      "id": 10,
+      "slug": "copper",
+      "name": "Copper CRM",
+      "domain": "copper.com",
+      "category": "Google Workspace CRM",
+      "icp": "Teams built on Google Workspace",
+      "status": "completed"
+    },
+    {
+      "id": 11,
+      "slug": "insightly",
+      "name": "Insightly",
+      "domain": "insightly.com",
+      "category": "Project & Sales CRM",
+      "icp": "Mid-market service firms",
+      "status": "completed"
+    },
+    {
+      "id": 12,
+      "slug": "keap",
+      "name": "Keap",
+      "domain": "keap.com",
+      "category": "Sales & Marketing Automation",
+      "icp": "Solo entrepreneurs and small service businesses",
+      "status": "completed"
+    },
+    {
+      "id": 13,
+      "slug": "capsule",
+      "name": "Capsule CRM",
+      "domain": "capsulecrm.com",
+      "category": "Simple CRM",
+      "icp": "Micro-businesses and small agencies",
+      "status": "completed"
+    },
+    {
+      "id": 14,
+      "slug": "nutshell",
+      "name": "Nutshell",
+      "domain": "nutshell.com",
+      "category": "Sales CRM & Email Marketing",
+      "icp": "B2B small business sales teams",
+      "status": "completed"
+    },
+    {
+      "id": 15,
+      "slug": "nimble",
+      "name": "Nimble",
+      "domain": "nimble.com",
+      "category": "Social CRM",
+      "icp": "Relationship-driven consultants & sales reps",
+      "status": "completed"
+    },
+    {
+      "id": 16,
+      "slug": "sugar-crm",
+      "name": "SugarCRM",
+      "domain": "sugarcrm.com",
+      "category": "Mid-Market CRM",
+      "icp": "Complex mid-market B2B companies",
+      "status": "completed"
+    },
+    {
+      "id": 17,
+      "slug": "bitrix24",
+      "name": "Bitrix24",
+      "domain": "bitrix24.com",
+      "category": "All-in-One Collaboration & CRM",
+      "icp": "Global SMBs wanting low fixed-cost suite",
+      "status": "completed"
+    },
+    {
+      "id": 18,
+      "slug": "less-annoying-crm",
+      "name": "Less Annoying CRM",
+      "domain": "lessannoyingcrm.com",
+      "category": "Simple Flat-Rate CRM",
+      "icp": "Very small businesses & solo pros",
+      "status": "completed"
+    },
+    {
+      "id": 19,
+      "slug": "pipeline-crm",
+      "name": "Pipeline CRM",
+      "domain": "pipelinecrm.com",
+      "category": "Sales Pipeline Management",
+      "icp": "Small business sales teams",
+      "status": "completed"
+    },
+    {
+      "id": 20,
+      "slug": "nethunt",
+      "name": "NetHunt CRM",
+      "domain": "nethunt.com",
+      "category": "Gmail-Integrated CRM",
+      "icp": "B2B teams running on Gmail/Google Workspace",
+      "status": "completed"
+    },
+    {
+      "id": 21,
+      "slug": "bigin",
+      "name": "Bigin by Zoho",
+      "domain": "bigin.com",
+      "category": "Pipeline-Centric Micro CRM",
+      "icp": "Micro businesses moving off spreadsheets",
+      "status": "completed"
+    },
+    {
+      "id": 22,
+      "slug": "vtiger",
+      "name": "Vtiger CRM",
+      "domain": "vtiger.com",
+      "category": "All-in-One CRM",
+      "icp": "Mid-market global sales teams",
+      "status": "completed"
+    },
+    {
+      "id": 23,
+      "slug": "apptivo",
+      "name": "Apptivo",
+      "domain": "apptivo.com",
+      "category": "Business App Suite CRM",
+      "icp": "SMB operations needing ERP & CRM",
+      "status": "completed"
+    },
+    {
+      "id": 24,
+      "slug": "agile-crm",
+      "name": "Agile CRM",
+      "domain": "agilecrm.com",
+      "category": "All-in-One CRM",
+      "icp": "Small businesses and startups",
+      "status": "completed"
+    },
+    {
+      "id": 25,
+      "slug": "really-simple-systems",
+      "name": "Really Simple Systems",
+      "domain": "reallysimplesystems.com",
+      "category": "B2B CRM",
+      "icp": "Small B2B teams",
+      "status": "completed"
+    },
+    {
+      "id": 26,
+      "slug": "salesflare",
+      "name": "Salesflare",
+      "domain": "salesflare.com",
+      "category": "Automated B2B CRM",
+      "icp": "B2B agencies and startups",
+      "status": "completed"
+    },
+    {
+      "id": 27,
+      "slug": "membrain",
+      "name": "Membrain",
+      "domain": "membrain.com",
+      "category": "Complex B2B Sales CRM",
+      "icp": "B2B consultative sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "slug": "onepagecrm",
+      "name": "OnePageCRM",
+      "domain": "onepagecrm.com",
+      "category": "Action-Focused CRM",
+      "icp": "Small business sales reps",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "slug": "spiro",
+      "name": "Spiro",
+      "domain": "spiro.ai",
+      "category": "Proactive Relationship Management",
+      "icp": "Manufacturing and distribution sales",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "slug": "maximizer",
+      "name": "Maximizer CRM",
+      "domain": "maximizer.com",
+      "category": "Configurable Sales CRM",
+      "icp": "Financial and mid-market B2B",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "slug": "superoffice",
+      "name": "SuperOffice",
+      "domain": "superoffice.com",
+      "category": "European CRM Suite",
+      "icp": "European B2B enterprises",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "slug": "creatio",
+      "name": "Creatio",
+      "domain": "creatio.com",
+      "category": "No-Code CRM & Workflow",
+      "icp": "Mid-market to enterprise companies",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "slug": "salesloft",
+      "name": "Salesloft",
+      "domain": "salesloft.com",
+      "category": "Sales Engagement Platform",
+      "icp": "B2B enterprise SDR and AE teams",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "slug": "outreach",
+      "name": "Outreach",
+      "domain": "outreach.io",
+      "category": "Sales Execution Platform",
+      "icp": "High-growth B2B enterprise sales",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "slug": "groove",
+      "name": "Groove",
+      "domain": "groove.co",
+      "category": "Salesforce-Native Engagement",
+      "icp": "Enterprises on Salesforce",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "slug": "apollo-io",
+      "name": "Apollo.io",
+      "domain": "apollo.io",
+      "category": "B2B Lead Database & Engagement",
+      "icp": "Outbound SDRs and sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "slug": "zoominfo",
+      "name": "ZoomInfo SalesOS",
+      "domain": "zoominfo.com",
+      "category": "B2B Intelligence & Engagement",
+      "icp": "Enterprise revenue teams",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "slug": "cognism",
+      "name": "Cognism",
+      "domain": "cognism.com",
+      "category": "B2B Data & Sales Intelligence",
+      "icp": "International B2B outbound teams",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "slug": "lusha",
+      "name": "Lusha",
+      "domain": "lusha.com",
+      "category": "B2B Contact Finder",
+      "icp": "Individual recruiters and sales reps",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "slug": "kaspr",
+      "name": "Kaspr",
+      "domain": "kaspr.io",
+      "category": "LinkedIn Lead Extraction",
+      "icp": "SDRs and recruiters on LinkedIn",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "slug": "seamless-ai",
+      "name": "Seamless.AI",
+      "domain": "seamless.ai",
+      "category": "Real-Time B2B Search Engine",
+      "icp": "Outbound prospecting teams",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "slug": "lead411",
+      "name": "Lead411",
+      "domain": "lead411.com",
+      "category": "B2B Data with Intent",
+      "icp": "Sales and marketing outbound teams",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "slug": "upcall",
+      "name": "Upcall",
+      "domain": "upcall.com",
+      "category": "Outbound Calling Platform",
+      "icp": "Inside sales call campaigns",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "slug": "phonewagon",
+      "name": "PhoneWagon",
+      "domain": "phonewagon.com",
+      "category": "Call Tracking & CRM",
+      "icp": "Marketing agencies and local businesses",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "slug": "callrail",
+      "name": "CallRail",
+      "domain": "callrail.com",
+      "category": "Call Tracking & Lead Center",
+      "icp": "Agencies and local businesses",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "slug": "leadsquared",
+      "name": "LeadSquared",
+      "domain": "leadsquared.com",
+      "category": "High-Velocity Sales Execution",
+      "icp": "EdTech, healthcare, and finance sales",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "slug": "telecrm",
+      "name": "TeleCRM",
+      "domain": "telecrm.in",
+      "category": "Telesales CRM",
+      "icp": "Call-heavy Indian sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "slug": "kylas",
+      "name": "Kylas CRM",
+      "domain": "kylas.io",
+      "category": "Growth-Oriented Sales CRM",
+      "icp": "Indian SMBs and startups",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "slug": "solidperformers",
+      "name": "Solid Performers CRM",
+      "domain": "solidperformers.com",
+      "category": "Indian Business CRM",
+      "icp": "Small manufacturing & services",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "slug": "sangam-crm",
+      "name": "Sangam CRM",
+      "domain": "sangamcrm.com",
+      "category": "Indian Enterprise CRM",
+      "icp": "Manufacturing and distribution",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "slug": "attio",
+      "name": "Attio",
+      "domain": "attio.com",
+      "category": "Next-Gen AI CRM",
+      "icp": "Tech startups and modern venture-backed teams",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "slug": "folk",
+      "name": "Folk CRM",
+      "domain": "folk.app",
+      "category": "Lightweight Collaborative CRM",
+      "icp": "Agencies, creators, and modern teams",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "slug": "clay",
+      "name": "Clay",
+      "domain": "clay.com",
+      "category": "Data Enrichment & Outbound CRM",
+      "icp": "Outbound growth teams & SDRs",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "slug": "daylite",
+      "name": "Daylite",
+      "domain": "marketcircle.com",
+      "category": "Apple-Native Mac/iOS CRM",
+      "icp": "Mac-based small businesses & law firms",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "slug": "twenty-crm",
+      "name": "Twenty CRM",
+      "domain": "twenty.com",
+      "category": "Open-Source Modern CRM",
+      "icp": "Developers and open-source advocates",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "slug": "streak",
+      "name": "Streak",
+      "domain": "streak.com",
+      "category": "CRM inside Gmail",
+      "icp": "Teams managing pipelines inside inbox",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "slug": "dex",
+      "name": "Dex",
+      "domain": "getdex.com",
+      "category": "Personal CRM & Networking",
+      "icp": "Founders, investors, and super-connectors",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "slug": "breakcold",
+      "name": "Breakcold",
+      "domain": "breakcold.com",
+      "category": "Social Selling CRM",
+      "icp": "Agencies using LinkedIn & Twitter",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "slug": "warmly",
+      "name": "Warmly",
+      "domain": "warmly.ai",
+      "category": "Autonomous AI Revenue Orchestration",
+      "icp": "B2B SaaS growth teams",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "slug": "decagon",
+      "name": "Decagon",
+      "domain": "decagon.ai",
+      "category": "AI Customer Support Agents",
+      "icp": "High-volume customer support operations",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "slug": "fathom",
+      "name": "Fathom",
+      "domain": "fathom.video",
+      "category": "AI Meeting Assistant & CRM Sync",
+      "icp": "Sales reps and account executives",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "slug": "avoma",
+      "name": "Avoma",
+      "domain": "avoma.com",
+      "category": "AI Meeting & Conversation Intelligence",
+      "icp": "Customer-facing revenue teams",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "slug": "attention",
+      "name": "Attention",
+      "domain": "attention.tech",
+      "category": "AI Sales Intelligence & CRM Entry",
+      "icp": "Fast-moving sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "slug": "fireflies",
+      "name": "Fireflies.ai",
+      "domain": "fireflies.ai",
+      "category": "AI Voice Assistant & Transcriber",
+      "icp": "Remote teams and sales reps",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "slug": "chorus",
+      "name": "Chorus by ZoomInfo",
+      "domain": "zoominfo.com/products/chorus",
+      "category": "Conversation Intelligence",
+      "icp": "Mid-market and enterprise sales",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "slug": "gong",
+      "name": "Gong",
+      "domain": "gong.io",
+      "category": "Revenue Intelligence Platform",
+      "icp": "Enterprise sales organizations",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "slug": "sybill",
+      "name": "Sybill",
+      "domain": "sybill.ai",
+      "category": "Emotion-Aware AI Meeting Assistant",
+      "icp": "B2B technology sales reps",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "slug": "modjo",
+      "name": "Modjo",
+      "domain": "modjo.ai",
+      "category": "European Conversation Intelligence",
+      "icp": "European sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "slug": "otter-ai",
+      "name": "Otter.ai",
+      "domain": "otter.ai",
+      "category": "AI Meeting Notes & Real-Time Audio",
+      "icp": "Professionals and student teams",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "slug": "bluedot",
+      "name": "Bluedot",
+      "domain": "bluedothq.com",
+      "category": "AI Recorder for Google Meet",
+      "icp": "Product managers and sales reps",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "slug": "tl-dv",
+      "name": "tl;dv",
+      "domain": "tldv.io",
+      "category": "Meeting Recorder for Zoom & Meet",
+      "icp": "Remote teams and recruiters",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "slug": "read-ai",
+      "name": "Read AI",
+      "domain": "read.ai",
+      "category": "Meeting Analytics & Summaries",
+      "icp": "Enterprise leadership and sales",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "slug": "meetgeek",
+      "name": "MeetGeek",
+      "domain": "meetgeek.ai",
+      "category": "Automated Meeting Notes",
+      "icp": "Consultants and distributed teams",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "slug": "supernormal",
+      "name": "Supernormal",
+      "domain": "supernormal.com",
+      "category": "AI Meeting Notes for Teams",
+      "icp": "Executive and project meetings",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "slug": "fellow-ai",
+      "name": "Fellow.app",
+      "domain": "fellow.app",
+      "category": "AI Meeting Management",
+      "icp": "Managers and team leads",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "slug": "krisp-ai",
+      "name": "Krisp",
+      "domain": "krisp.ai",
+      "category": "AI Noise Cancellation & Meeting Notes",
+      "icp": "Call center reps and remote workers",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "slug": "tact-ai",
+      "name": "Tact.ai",
+      "domain": "tact.ai",
+      "category": "Enterprise AI Digital Assistant",
+      "icp": "Fortune 500 field sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "slug": "uniphore",
+      "name": "Uniphore",
+      "domain": "uniphore.com",
+      "category": "Enterprise Conversational AI",
+      "icp": "Global contact centers",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "slug": "cresta",
+      "name": "Cresta",
+      "domain": "cresta.com",
+      "category": "Real-Time AI for Contact Centers",
+      "icp": "Enterprise customer support teams",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "slug": "balto",
+      "name": "Balto",
+      "domain": "balto.ai",
+      "category": "Real-Time Agent Guidance",
+      "icp": "High-volume sales & service call centers",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "slug": "simpletexting",
+      "name": "SimpleTexting",
+      "domain": "simpletexting.com",
+      "category": "SMS Marketing & 2-Way Texting",
+      "icp": "Small businesses & community orgs",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "slug": "textmagic",
+      "name": "TextMagic",
+      "domain": "textmagic.com",
+      "category": "Business SMS Service",
+      "icp": "Small businesses needing bulk SMS",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "slug": "slicktext",
+      "name": "SlickText",
+      "domain": "slicktext.com",
+      "category": "SMS Marketing Software",
+      "icp": "Retailers, restaurants, and e-commerce",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "slug": "eztexting",
+      "name": "EZ Texting",
+      "domain": "eztexting.com",
+      "category": "SMS Marketing for Growth",
+      "icp": "Local businesses and nonprofits",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "slug": "sakari",
+      "name": "Sakari SMS",
+      "domain": "sakari.io",
+      "category": "B2B Business Texting",
+      "icp": "HubSpot and Pipedrive users",
+      "status": "pending"
+    },
+    {
+      "id": 86,
+      "slug": "salesmsg",
+      "name": "Salesmsg",
+      "domain": "salesmsg.com",
+      "category": "Two-Way Business Texting & Calling",
+      "icp": "Inside sales reps and local businesses",
+      "status": "pending"
+    },
+    {
+      "id": 87,
+      "slug": "justcall",
+      "name": "JustCall",
+      "domain": "justcall.io",
+      "category": "Cloud VoIP & AI Call Center",
+      "icp": "Remote sales and support teams",
+      "status": "pending"
+    },
+    {
+      "id": 88,
+      "slug": "aircall",
+      "name": "Aircall",
+      "domain": "aircall.io",
+      "category": "Cloud Phone System for Support & Sales",
+      "icp": "SaaS and modern SMB support desks",
+      "status": "pending"
+    },
+    {
+      "id": 89,
+      "slug": "cloudtalk",
+      "name": "CloudTalk",
+      "domain": "cloudtalk.io",
+      "category": "Call Center Software & VoIP",
+      "icp": "Customer support & sales operations",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "slug": "ringcentral",
+      "name": "RingCentral MVP",
+      "domain": "ringcentral.com",
+      "category": "Enterprise Cloud Communications",
+      "icp": "Mid-market and enterprise phone systems",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "slug": "dialpad",
+      "name": "Dialpad",
+      "domain": "dialpad.com",
+      "category": "AI-Powered Cloud Telephony",
+      "icp": "Contact centres and hybrid sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 92,
+      "slug": "openphone",
+      "name": "OpenPhone",
+      "domain": "openphone.com",
+      "category": "Modern Business Phone System",
+      "icp": "Startups and small distributed teams",
+      "status": "pending"
+    },
+    {
+      "id": 93,
+      "slug": "grasshopper",
+      "name": "Grasshopper",
+      "domain": "grasshopper.com",
+      "category": "Virtual Phone System for Solo/Small",
+      "icp": "Solopreneurs and small contractors",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "slug": "nextiva",
+      "name": "Nextiva",
+      "domain": "nextiva.com",
+      "category": "Business Phone & Customer Experience",
+      "icp": "Traditional US small to mid businesses",
+      "status": "pending"
+    },
+    {
+      "id": 95,
+      "slug": "eight-by-eight",
+      "name": "8x8",
+      "domain": "8x8.com",
+      "category": "Cloud Contact Center & Voice",
+      "icp": "Mid-market enterprise organizations",
+      "status": "pending"
+    },
+    {
+      "id": 96,
+      "slug": "vonage-business",
+      "name": "Vonage Business",
+      "domain": "vonage.com",
+      "category": "Unified Communications & APIs",
+      "icp": "Small to enterprise businesses",
+      "status": "pending"
+    },
+    {
+      "id": 97,
+      "slug": "callhippo",
+      "name": "CallHippo",
+      "domain": "callhippo.com",
+      "category": "Virtual Phone System for Teams",
+      "icp": "Startups and global remote sales",
+      "status": "pending"
+    },
+    {
+      "id": 98,
+      "slug": "kixie",
+      "name": "Kixie PowerCall",
+      "domain": "kixie.com",
+      "category": "Sales Dialer & SMS Automation",
+      "icp": "High-volume outbound SDR teams",
+      "status": "pending"
+    },
+    {
+      "id": 99,
+      "slug": "phoneburner",
+      "name": "PhoneBurner",
+      "domain": "phoneburner.com",
+      "category": "Power Dialer & Outbound Sales",
+      "icp": "Outbound phone prospecting teams",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "slug": "manychat",
+      "name": "ManyChat",
+      "domain": "manychat.com",
+      "category": "Chatbot & DM Automation",
+      "icp": "Instagram/WhatsApp/Messenger creators & brands",
+      "status": "pending"
+    },
+    {
+      "id": 101,
+      "slug": "chatfuel",
+      "name": "Chatfuel",
+      "domain": "chatfuel.com",
+      "category": "WhatsApp & Messenger Automation",
+      "icp": "E-commerce and social commerce brands",
+      "status": "pending"
+    },
+    {
+      "id": 102,
+      "slug": "wati",
+      "name": "WATI",
+      "domain": "wati.io",
+      "category": "WhatsApp Business API Platform",
+      "icp": "Growing businesses relying on WhatsApp",
+      "status": "pending"
+    },
+    {
+      "id": 103,
+      "slug": "respond-io",
+      "name": "Respond.io",
+      "domain": "respond.io",
+      "category": "Customer Conversation Management",
+      "icp": "Omnichannel messaging for global teams",
+      "status": "pending"
+    },
+    {
+      "id": 104,
+      "slug": "trengo",
+      "name": "Trengo",
+      "domain": "trengo.com",
+      "category": "Omnichannel Customer Service Platform",
+      "icp": "European e-commerce and retail",
+      "status": "pending"
+    },
+    {
+      "id": 105,
+      "slug": "messagebird",
+      "name": "Bird (MessageBird)",
+      "domain": "bird.com",
+      "category": "Omnichannel CRM & Messaging API",
+      "icp": "Enterprises sending SMS, Email & WhatsApp",
+      "status": "pending"
+    },
+    {
+      "id": 106,
+      "slug": "twilio-flex",
+      "name": "Twilio Flex",
+      "domain": "twilio.com/flex",
+      "category": "Programmable Cloud Contact Center",
+      "icp": "Developer-led enterprise customer centers",
+      "status": "pending"
+    },
+    {
+      "id": 107,
+      "slug": "talkdesk",
+      "name": "Talkdesk",
+      "domain": "talkdesk.com",
+      "category": "AI-Powered Contact Center",
+      "icp": "Enterprise customer experience operations",
+      "status": "pending"
+    },
+    {
+      "id": 108,
+      "slug": "genesys",
+      "name": "Genesys Cloud CX",
+      "domain": "genesys.com",
+      "category": "Enterprise Contact Center OS",
+      "icp": "Global Fortune 500 contact centers",
+      "status": "pending"
+    },
+    {
+      "id": 109,
+      "slug": "sinch",
+      "name": "Sinch",
+      "domain": "sinch.com",
+      "category": "Customer Engagement Cloud",
+      "icp": "Global enterprise messaging",
+      "status": "pending"
+    },
+    {
+      "id": 110,
+      "slug": "infobip",
+      "name": "Infobip",
+      "domain": "infobip.com",
+      "category": "Omnichannel Communications Platform",
+      "icp": "Global telecoms and banking notifications",
+      "status": "pending"
+    },
+    {
+      "id": 111,
+      "slug": "plivo",
+      "name": "Plivo",
+      "domain": "plivo.com",
+      "category": "Communications Platform (CPaaS)",
+      "icp": "Developers building voice and SMS",
+      "status": "pending"
+    },
+    {
+      "id": 112,
+      "slug": "bandwidth",
+      "name": "Bandwidth",
+      "domain": "bandwidth.com",
+      "category": "Enterprise Voice & Messaging APIs",
+      "icp": "Large tech companies and carriers",
+      "status": "pending"
+    },
+    {
+      "id": 113,
+      "slug": "vonage-api",
+      "name": "Vonage Communications APIs",
+      "domain": "vonage.com/communications-apis",
+      "category": "CPaaS APIs for Voice, SMS & Video",
+      "icp": "App developers and global enterprises",
+      "status": "pending"
+    },
+    {
+      "id": 114,
+      "slug": "podium",
+      "name": "Podium",
+      "domain": "podium.com",
+      "category": "Local Business Texting & Reputation",
+      "icp": "Local storefronts and home service providers",
+      "status": "pending"
+    },
+    {
+      "id": 115,
+      "slug": "birdeye",
+      "name": "Birdeye",
+      "domain": "birdeye.com",
+      "category": "Reputation & Customer Experience",
+      "icp": "Multi-location local businesses",
+      "status": "pending"
+    },
+    {
+      "id": 116,
+      "slug": "broadly",
+      "name": "Broadly",
+      "domain": "broadly.com",
+      "category": "Local Customer Engagement Software",
+      "icp": "Small local home service businesses",
+      "status": "pending"
+    },
+    {
+      "id": 117,
+      "slug": "swell",
+      "name": "Swell",
+      "domain": "swellcx.com",
+      "category": "Customer Experience & Texting",
+      "icp": "Dentists, healthcare, and local shops",
+      "status": "pending"
+    },
+    {
+      "id": 118,
+      "slug": "weave",
+      "name": "Weave",
+      "domain": "getweave.com",
+      "category": "All-in-One Healthcare Communication",
+      "icp": "Veterinary, dental, and optometry clinics",
+      "status": "pending"
+    },
+    {
+      "id": 119,
+      "slug": "klientboost-call",
+      "name": "CallTrackingMetrics",
+      "domain": "calltrackingmetrics.com",
+      "category": "Marketing Attribution & Call Center",
+      "icp": "Digital marketing agencies and call centers",
+      "status": "pending"
+    },
+    {
+      "id": 120,
+      "slug": "invoca",
+      "name": "Invoca",
+      "domain": "invoca.com",
+      "category": "Active Conversation Intelligence",
+      "icp": "Enterprise marketing and sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 121,
+      "slug": "popl",
+      "name": "Popl",
+      "domain": "popl.co",
+      "category": "Digital Business Cards & Lead Retrieval",
+      "icp": "Event attendees and enterprise field sales",
+      "status": "pending"
+    },
+    {
+      "id": 122,
+      "slug": "linq",
+      "name": "Linq",
+      "domain": "buy.linqapp.com",
+      "category": "Smart Digital Business Cards",
+      "icp": "Sales teams and corporate networking",
+      "status": "pending"
+    },
+    {
+      "id": 123,
+      "slug": "mobilo",
+      "name": "Mobilo Card",
+      "domain": "mobilocard.com",
+      "category": "Smart NFC Business Card for Teams",
+      "icp": "Corporate enterprise sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 124,
+      "slug": "dot-cards",
+      "name": "Dot Cards",
+      "domain": "dotcards.net",
+      "category": "Digital NFC Business Cards",
+      "icp": "Individuals and creators",
+      "status": "pending"
+    },
+    {
+      "id": 125,
+      "slug": "hihello",
+      "name": "HiHello",
+      "domain": "hihello.me",
+      "category": "Digital Business Cards for Teams",
+      "icp": "Modern businesses and enterprises",
+      "status": "pending"
+    },
+    {
+      "id": 126,
+      "slug": "v1ce",
+      "name": "V1CE",
+      "domain": "v1ce.co",
+      "category": "Luxury Metal & NFC Business Cards",
+      "icp": "Executives and luxury professionals",
+      "status": "pending"
+    },
+    {
+      "id": 127,
+      "slug": "blinq",
+      "name": "Blinq",
+      "domain": "blinq.me",
+      "category": "Digital Business Cards for Individuals/Teams",
+      "icp": "Professionals and remote work teams",
+      "status": "pending"
+    },
+    {
+      "id": 128,
+      "slug": "beaconstac",
+      "name": "Uniqode (Beaconstac)",
+      "domain": "uniqode.com",
+      "category": "QR Code & Digital Card Platform",
+      "icp": "Enterprise marketing and ops",
+      "status": "pending"
+    },
+    {
+      "id": 129,
+      "slug": "cvent",
+      "name": "Cvent",
+      "domain": "cvent.com",
+      "category": "Event Marketing & Management",
+      "icp": "Corporate event planners and conference organisers",
+      "status": "pending"
+    },
+    {
+      "id": 130,
+      "slug": "whova",
+      "name": "Whova",
+      "domain": "whova.com",
+      "category": "Event App & Lead Retrieval",
+      "icp": "Conferences, expos, and academic summits",
+      "status": "pending"
+    },
+    {
+      "id": 131,
+      "slug": "bizzabo",
+      "name": "Bizzabo",
+      "domain": "bizzabo.com",
+      "category": "Event Experience OS",
+      "icp": "B2B conference organizers and tech events",
+      "status": "pending"
+    },
+    {
+      "id": 132,
+      "slug": "swapcard",
+      "name": "Swapcard",
+      "domain": "swapcard.com",
+      "category": "AI-Powered Event & Exhibition App",
+      "icp": "Large trade shows and exhibitions",
+      "status": "pending"
+    },
+    {
+      "id": 133,
+      "slug": "eventbrite",
+      "name": "Eventbrite",
+      "domain": "eventbrite.com",
+      "category": "Event Ticketing & Marketing Platform",
+      "icp": "Local event creators and organizers",
+      "status": "pending"
+    },
+    {
+      "id": 134,
+      "slug": "hopin",
+      "name": "RingCentral Events (Hopin)",
+      "domain": "ringcentral.com/events",
+      "category": "Virtual & Hybrid Event Platform",
+      "icp": "Global virtual summit organizers",
+      "status": "pending"
+    },
+    {
+      "id": 135,
+      "slug": "vfairs",
+      "name": "vFairs",
+      "domain": "vfairs.com",
+      "category": "Virtual, Hybrid & In-Person Events",
+      "icp": "Corporate hiring fairs and trade shows",
+      "status": "pending"
+    },
+    {
+      "id": 136,
+      "slug": "socio",
+      "name": "Webex Events (Socio)",
+      "domain": "socio.events",
+      "category": "Event Management Platform",
+      "icp": "Enterprise internal and client events",
+      "status": "pending"
+    },
+    {
+      "id": 137,
+      "slug": "eventmobi",
+      "name": "EventMobi",
+      "domain": "eventmobi.com",
+      "category": "Event Management Software",
+      "icp": "Association and corporate meeting planners",
+      "status": "pending"
+    },
+    {
+      "id": 138,
+      "slug": "hubilo",
+      "name": "Hubilo",
+      "domain": "hubilo.com",
+      "category": "Virtual & Hybrid Event Platform",
+      "icp": "Enterprise marketing and demand gen",
+      "status": "pending"
+    },
+    {
+      "id": 139,
+      "slug": "brella",
+      "name": "Brella",
+      "domain": "brella.io",
+      "category": "Networking & Matchmaking Event App",
+      "icp": "B2B conferences seeking sponsor ROI",
+      "status": "pending"
+    },
+    {
+      "id": 140,
+      "slug": "attendify",
+      "name": "Attendify",
+      "domain": "attendify.com",
+      "category": "Event App Platform",
+      "icp": "Trade associations and meeting planners",
+      "status": "pending"
+    },
+    {
+      "id": 141,
+      "slug": "expopass",
+      "name": "Expo Pass",
+      "domain": "expopass.com",
+      "category": "Event App, Badge Printing & Lead Retrieval",
+      "icp": "Event planners and exhibition booths",
+      "status": "pending"
+    },
+    {
+      "id": 142,
+      "slug": "scantech",
+      "name": "ScanTech",
+      "domain": "scantech.com",
+      "category": "Trade Show Lead Retrieval Hardware",
+      "icp": "Trade show exhibitors",
+      "status": "pending"
+    },
+    {
+      "id": 143,
+      "slug": "captello",
+      "name": "Captello",
+      "domain": "captello.com",
+      "category": "Gamified Lead Capture for Events",
+      "icp": "Exhibitors looking to engage booth visitors",
+      "status": "pending"
+    },
+    {
+      "id": 144,
+      "slug": "validar",
+      "name": "Validar",
+      "domain": "validar.com",
+      "category": "Event Lead Management",
+      "icp": "Enterprise trade show organizers",
+      "status": "pending"
+    },
+    {
+      "id": 145,
+      "slug": "leadature",
+      "name": "Leadature by PRG",
+      "domain": "leadature.com",
+      "category": "Mobile Lead Capture for Events",
+      "icp": "Corporate trade show exhibitors",
+      "status": "pending"
+    },
+    {
+      "id": 146,
+      "slug": "salesrabbit",
+      "name": "SalesRabbit",
+      "domain": "salesrabbit.com",
+      "category": "Outside & Door-to-Door Sales App",
+      "icp": "Field sales, roofing, solar, and pest control",
+      "status": "pending"
+    },
+    {
+      "id": 147,
+      "slug": "spotio",
+      "name": "Spotio",
+      "domain": "spotio.com",
+      "category": "Field Sales Engagement Software",
+      "icp": "B2B and B2C outside sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 148,
+      "slug": "badger-maps",
+      "name": "Badger Maps",
+      "domain": "badgermapping.com",
+      "category": "Route Planner for Field Sales",
+      "icp": "Territory reps and outside account managers",
+      "status": "pending"
+    },
+    {
+      "id": 149,
+      "slug": "geopointe",
+      "name": "Geopointe",
+      "domain": "geopointe.com",
+      "category": "Salesforce Geolocation & Route Mapping",
+      "icp": "Salesforce field operations",
+      "status": "pending"
+    },
+    {
+      "id": 150,
+      "slug": "mapline",
+      "name": "Mapline",
+      "domain": "mapline.com",
+      "category": "Mapping Software for Business",
+      "icp": "Logistics and territory mapping teams",
+      "status": "pending"
+    },
+    {
+      "id": 151,
+      "slug": "fieldedge",
+      "name": "FieldEdge",
+      "domain": "fieldedge.com",
+      "category": "HVAC & Service Management Software",
+      "icp": "HVAC, plumbing, electrical contractors",
+      "status": "pending"
+    },
+    {
+      "id": 152,
+      "slug": "mhelpdesk",
+      "name": "mHelpDesk",
+      "domain": "mhelpdesk.com",
+      "category": "Field Service Management Software",
+      "icp": "Field service repair technicians",
+      "status": "pending"
+    },
+    {
+      "id": 153,
+      "slug": "repsly",
+      "name": "Repsly",
+      "domain": "repsly.com",
+      "category": "Retail Execution & Field Sales",
+      "icp": "CPG brands and merchandising teams",
+      "status": "pending"
+    },
+    {
+      "id": 154,
+      "slug": "connecteam",
+      "name": "Connecteam",
+      "domain": "connecteam.com",
+      "category": "All-in-One Deskless Workforce App",
+      "icp": "Security, cleaning, and field crews",
+      "status": "pending"
+    },
+    {
+      "id": 155,
+      "slug": "jobber",
+      "name": "Jobber",
+      "domain": "getjobber.com",
+      "category": "Home Service Operations Software",
+      "icp": "Plumbing, landscaping, cleaning, HVAC businesses",
+      "status": "pending"
+    },
+    {
+      "id": 156,
+      "slug": "housecall-pro",
+      "name": "Housecall Pro",
+      "domain": "housecallpro.com",
+      "category": "Field Service Management",
+      "icp": "Residential trade contractors and service pros",
+      "status": "pending"
+    },
+    {
+      "id": 157,
+      "slug": "servicetitan",
+      "name": "ServiceTitan",
+      "domain": "servicetitan.com",
+      "category": "Commercial & Residential Trade OS",
+      "icp": "Large HVAC, plumbing, electrical contractors",
+      "status": "pending"
+    },
+    {
+      "id": 158,
+      "slug": "workiz",
+      "name": "Workiz",
+      "domain": "workiz.com",
+      "category": "Field Service Management & Scheduling",
+      "icp": "Locksmith, junk removal, and appliance repair",
+      "status": "pending"
+    },
+    {
+      "id": 159,
+      "slug": "gorilladesk",
+      "name": "GorillaDesk",
+      "domain": "gorilladesk.com",
+      "category": "Field Service for Pest Control & Lawn",
+      "icp": "Pest control and lawn care operators",
+      "status": "pending"
+    },
+    {
+      "id": 160,
+      "slug": "kickserv",
+      "name": "Kickserv",
+      "domain": "kickserv.com",
+      "category": "Field Service Management Software",
+      "icp": "Home service contractors and handymen",
+      "status": "pending"
+    },
+    {
+      "id": 161,
+      "slug": "razorsync",
+      "name": "RazorSync",
+      "domain": "razorsync.com",
+      "category": "Field Service Scheduling & Invoicing",
+      "icp": "Cleaning, HVAC, and field pros",
+      "status": "pending"
+    },
+    {
+      "id": 162,
+      "slug": "fergus",
+      "name": "Fergus",
+      "domain": "fergus.com",
+      "category": "Job Management for Trades",
+      "icp": "Plumbers, electricians, and builders",
+      "status": "pending"
+    },
+    {
+      "id": 163,
+      "slug": "tradify",
+      "name": "Tradify",
+      "domain": "tradifyhq.com",
+      "category": "Trade Job Management App",
+      "icp": "Electricians, plumbers, and carpenters",
+      "status": "pending"
+    },
+    {
+      "id": 164,
+      "slug": "simpro",
+      "name": "simPRO",
+      "domain": "simprogroup.com",
+      "category": "Field Service ERP & Estimating",
+      "icp": "Commercial trade contractors",
+      "status": "pending"
+    },
+    {
+      "id": 165,
+      "slug": "commusoft",
+      "name": "Commusoft",
+      "domain": "commusoft.us",
+      "category": "Job Management for Field Services",
+      "icp": "HVAC, electrical, and plumbing businesses",
+      "status": "pending"
+    },
+    {
+      "id": 166,
+      "slug": "fieldwire",
+      "name": "Fieldwire by Hilti",
+      "domain": "fieldwire.com",
+      "category": "Construction Field Management",
+      "icp": "Subcontractors and general contractors",
+      "status": "pending"
+    },
+    {
+      "id": 167,
+      "slug": "zenmaid",
+      "name": "ZenMaid",
+      "domain": "zenmaid.com",
+      "category": "Software for Maid Services",
+      "icp": "Residential cleaning business owners",
+      "status": "pending"
+    },
+    {
+      "id": 168,
+      "slug": "servicemate",
+      "name": "ServiceM8",
+      "domain": "servicem8.com",
+      "category": "Field Service for Small Trades",
+      "icp": "Solo tradesmen and small service teams",
+      "status": "pending"
+    },
+    {
+      "id": 169,
+      "slug": "skimmer",
+      "name": "Skimmer",
+      "domain": "getskimmer.com",
+      "category": "Pool Service Software & Route Management",
+      "icp": "Pool service professionals",
+      "status": "pending"
+    },
+    {
+      "id": 170,
+      "slug": "lawn-starter-pro",
+      "name": "Yardbook",
+      "domain": "yardbook.com",
+      "category": "Landscaping Business Software",
+      "icp": "Lawn care and landscaping contractors",
+      "status": "pending"
+    },
+    {
+      "id": 171,
+      "slug": "arborgold",
+      "name": "Arborgold",
+      "domain": "arborgold.com",
+      "category": "Tree Care & Landscaping Software",
+      "icp": "Tree service and landscape businesses",
+      "status": "pending"
+    },
+    {
+      "id": 172,
+      "slug": "singleops",
+      "name": "SingleOps",
+      "domain": "singleops.com",
+      "category": "All-in-One Tree Care & Landscaping OS",
+      "icp": "Commercial tree and landscape contractors",
+      "status": "pending"
+    },
+    {
+      "id": 173,
+      "slug": "fleetio",
+      "name": "Fleetio",
+      "domain": "fleetio.com",
+      "category": "Fleet Management Software",
+      "icp": "Companies managing field vehicles",
+      "status": "pending"
+    },
+    {
+      "id": 174,
+      "slug": "verizon-connect",
+      "name": "Verizon Connect",
+      "domain": "verizonconnect.com",
+      "category": "Fleet Tracking & Mobile Workforce",
+      "icp": "Commercial fleet operators",
+      "status": "pending"
+    },
+    {
+      "id": 175,
+      "slug": "samsara",
+      "name": "Samsara",
+      "domain": "samsara.com",
+      "category": "Connected Operations Cloud",
+      "icp": "Logistics, fleet, and field operations",
+      "status": "pending"
+    },
+    {
+      "id": 176,
+      "slug": "route4me",
+      "name": "Route4Me",
+      "domain": "route4me.com",
+      "category": "Route Optimization & Planning",
+      "icp": "Delivery and field service fleets",
+      "status": "pending"
+    },
+    {
+      "id": 177,
+      "slug": "optimo-route",
+      "name": "OptimoRoute",
+      "domain": "optimoroute.com",
+      "category": "Route Planning & Scheduling",
+      "icp": "Delivery drivers and mobile workforces",
+      "status": "pending"
+    },
+    {
+      "id": 178,
+      "slug": "circuit-teams",
+      "name": "Circuit for Teams",
+      "domain": "getcircuit.com",
+      "category": "Delivery Route Planner",
+      "icp": "Couriers and localized delivery businesses",
+      "status": "pending"
+    },
+    {
+      "id": 179,
+      "slug": "onfleet",
+      "name": "Onfleet",
+      "domain": "onfleet.com",
+      "category": "Last Mile Delivery Software",
+      "icp": "Retailers and delivery services",
+      "status": "pending"
+    },
+    {
+      "id": 180,
+      "slug": "bringg",
+      "name": "Bringg",
+      "domain": "bringg.com",
+      "category": "Delivery & Fulfillment Cloud",
+      "icp": "Enterprise retail and logistics operations",
+      "status": "pending"
+    },
+    {
+      "id": 181,
+      "slug": "follow-up-boss",
+      "name": "Follow Up Boss",
+      "domain": "followupboss.com",
+      "category": "Real Estate CRM",
+      "icp": "Real estate agents, teams, and brokerages",
+      "status": "pending"
+    },
+    {
+      "id": 182,
+      "slug": "lofty",
+      "name": "Lofty (formerly Chime)",
+      "domain": "lofty.com",
+      "category": "Real Estate AI Platform & CRM",
+      "icp": "Top producing real estate teams",
+      "status": "pending"
+    },
+    {
+      "id": 183,
+      "slug": "kvcore",
+      "name": "kvCORE (Inside Real Estate)",
+      "domain": "insiderealestate.com/kvcore",
+      "category": "Brokerage Platform & Lead Engine",
+      "icp": "Real estate brokerages and agents",
+      "status": "pending"
+    },
+    {
+      "id": 184,
+      "slug": "boomtown",
+      "name": "BoomTown",
+      "domain": "boomtownroi.com",
+      "category": "Real Estate CRM & Lead Generation",
+      "icp": "Established real estate brokerages",
+      "status": "pending"
+    },
+    {
+      "id": 185,
+      "slug": "liondesk",
+      "name": "LionDesk",
+      "domain": "liondesk.com",
+      "category": "Affordable Real Estate CRM",
+      "icp": "Individual real estate agents",
+      "status": "pending"
+    },
+    {
+      "id": 186,
+      "slug": "wise-agent",
+      "name": "Wise Agent",
+      "domain": "wiseagent.com",
+      "category": "All-in-One Real Estate CRM",
+      "icp": "Solo real estate agents and small teams",
+      "status": "pending"
+    },
+    {
+      "id": 187,
+      "slug": "top-producer",
+      "name": "Top Producer",
+      "domain": "topproducer.com",
+      "category": "Real Estate CRM & Lead Flow",
+      "icp": "Experienced real estate professionals",
+      "status": "pending"
+    },
+    {
+      "id": 188,
+      "slug": "real-geeks",
+      "name": "Real Geeks",
+      "domain": "realgeeks.com",
+      "category": "Real Estate Websites & Lead Gen CRM",
+      "icp": "Real estate agents wanting search leads",
+      "status": "pending"
+    },
+    {
+      "id": 189,
+      "slug": "sierra-interactive",
+      "name": "Sierra Interactive",
+      "domain": "sierrainteractive.com",
+      "category": "Real Estate Web & CRM Platform",
+      "icp": "High-volume real estate teams",
+      "status": "pending"
+    },
+    {
+      "id": 190,
+      "slug": "cinc",
+      "name": "CINC (Commissions Inc)",
+      "domain": "cincpro.com",
+      "category": "Real Estate Lead Engine & CRM",
+      "icp": "Top 1% real estate teams and brokers",
+      "status": "pending"
+    },
+    {
+      "id": 191,
+      "slug": "market-leader",
+      "name": "Market Leader",
+      "domain": "marketleader.com",
+      "category": "Real Estate Lead Generation & CRM",
+      "icp": "Real estate brokerages and agents",
+      "status": "pending"
+    },
+    {
+      "id": 192,
+      "slug": "propertybase",
+      "name": "Propertybase (Lone Wolf)",
+      "domain": "lwolf.com/products/propertybase",
+      "category": "Real Estate CRM & Marketing",
+      "icp": "Mid to large real estate brokerages",
+      "status": "pending"
+    },
+    {
+      "id": 193,
+      "slug": "reapit",
+      "name": "Reapit",
+      "domain": "reapit.com",
+      "category": "Estate Agency Software Platform",
+      "icp": "UK, Australia, and US real estate firms",
+      "status": "pending"
+    },
+    {
+      "id": 194,
+      "slug": "cloze",
+      "name": "Cloze",
+      "domain": "cloze.com",
+      "category": "Relationship Management & Real Estate CRM",
+      "icp": "Real estate agents and consultants",
+      "status": "pending"
+    },
+    {
+      "id": 195,
+      "slug": "brivity",
+      "name": "Brivity",
+      "domain": "brivity.com",
+      "category": "Real Estate Operating Platform",
+      "icp": "Real estate mega teams",
+      "status": "pending"
+    },
+    {
+      "id": 196,
+      "slug": "ixact-contact",
+      "name": "IXACT Contact",
+      "domain": "ixactcontact.com",
+      "category": "Real Estate CRM & Email Marketing",
+      "icp": "Individual agents building repeat business",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "slug": "placester",
+      "name": "Placester",
+      "domain": "placester.com",
+      "category": "Real Estate Websites & CRM",
+      "icp": "Independent real estate brokerages",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "slug": "realtyjuggler",
+      "name": "RealtyJuggler",
+      "domain": "realtyjuggler.com",
+      "category": "Simple Real Estate Organizer",
+      "icp": "Traditional real estate agents",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "slug": "realvolve",
+      "name": "Realvolve",
+      "domain": "realvolve.com",
+      "category": "Workflow-Centric Real Estate CRM",
+      "icp": "Relationship-first real estate teams",
+      "status": "pending"
+    },
+    {
+      "id": 200,
+      "slug": "contactually",
+      "name": "Contactually (Compass)",
+      "domain": "compass.com",
+      "category": "Intelligent Real Estate CRM",
+      "icp": "Compass agents and relationship brokers",
+      "status": "pending"
+    },
+    {
+      "id": 201,
+      "slug": "propertyware",
+      "name": "Propertyware",
+      "domain": "propertyware.com",
+      "category": "Single-Family Property Management",
+      "icp": "Property managers and real estate investors",
+      "status": "pending"
+    },
+    {
+      "id": 202,
+      "slug": "appfolio",
+      "name": "AppFolio",
+      "domain": "appfolio.com",
+      "category": "Real Estate & Property Management OS",
+      "icp": "Residential and commercial property managers",
+      "status": "pending"
+    },
+    {
+      "id": 203,
+      "slug": "buildium",
+      "name": "Buildium",
+      "domain": "buildium.com",
+      "category": "Property Management Software",
+      "icp": "Small to mid-size property management companies",
+      "status": "pending"
+    },
+    {
+      "id": 204,
+      "slug": "rent-manager",
+      "name": "Rent Manager",
+      "domain": "rentmanager.com",
+      "category": "Property Management Software",
+      "icp": "Advanced property operations",
+      "status": "pending"
+    },
+    {
+      "id": 205,
+      "slug": "entrata",
+      "name": "Entrata",
+      "domain": "entrata.com",
+      "category": "Multifamily Operating System",
+      "icp": "Large multifamily property managers",
+      "status": "pending"
+    },
+    {
+      "id": 206,
+      "slug": "yardi",
+      "name": "Yardi Voyager",
+      "domain": "yardi.com",
+      "category": "Real Estate Investment & Management",
+      "icp": "Enterprise real estate portfolios",
+      "status": "pending"
+    },
+    {
+      "id": 207,
+      "slug": "mri-software",
+      "name": "MRI Software",
+      "domain": "mrisoftware.com",
+      "category": "Real Estate Software Solutions",
+      "icp": "Commercial real estate owners and operators",
+      "status": "pending"
+    },
+    {
+      "id": 208,
+      "slug": "realpage",
+      "name": "RealPage",
+      "domain": "realpage.com",
+      "category": "Multifamily Real Estate Analytics & Ops",
+      "icp": "Institutional real estate owners",
+      "status": "pending"
+    },
+    {
+      "id": 209,
+      "slug": "leasehawk",
+      "name": "LeaseHawk",
+      "domain": "leasehawk.com",
+      "category": "AI Leasing Assistant & CRM",
+      "icp": "Multifamily property leasing offices",
+      "status": "pending"
+    },
+    {
+      "id": 210,
+      "slug": "knock-crm",
+      "name": "Knock CRM",
+      "domain": "knockcrm.com",
+      "category": "Multifamily CRM & Performance Engine",
+      "icp": "Apartment leasing teams",
+      "status": "pending"
+    },
+    {
+      "id": 211,
+      "slug": "clio",
+      "name": "Clio",
+      "domain": "clio.com",
+      "category": "Legal Practice Management & CRM",
+      "icp": "Law firms and solo legal practitioners",
+      "status": "pending"
+    },
+    {
+      "id": 212,
+      "slug": "lawmatics",
+      "name": "Lawmatics",
+      "domain": "lawmatics.com",
+      "category": "Legal CRM & Intake Automation",
+      "icp": "Modern law firms focusing on client intake",
+      "status": "pending"
+    },
+    {
+      "id": 213,
+      "slug": "mycase",
+      "name": "MyCase",
+      "domain": "mycase.com",
+      "category": "All-in-One Legal Practice Management",
+      "icp": "Small to mid-sized law firms",
+      "status": "pending"
+    },
+    {
+      "id": 214,
+      "slug": "practicepanther",
+      "name": "PracticePanther",
+      "domain": "practicepanther.com",
+      "category": "Legal Practice Management Software",
+      "icp": "Solo and small law firms",
+      "status": "pending"
+    },
+    {
+      "id": 215,
+      "slug": "smokeball",
+      "name": "Smokeball",
+      "domain": "smokeball.com",
+      "category": "Legal Productivity & Automated Time Tracking",
+      "icp": "Law firms looking for billing efficiency",
+      "status": "pending"
+    },
+    {
+      "id": 216,
+      "slug": "filevine",
+      "name": "Filevine",
+      "domain": "filevine.com",
+      "category": "Legal Work Platform & Case Management",
+      "icp": "Personal injury and litigation firms",
+      "status": "pending"
+    },
+    {
+      "id": 217,
+      "slug": "rocket-matter",
+      "name": "Rocket Matter",
+      "domain": "rocketmatter.com",
+      "category": "Legal Billing & Case Management",
+      "icp": "Boutique law firms",
+      "status": "pending"
+    },
+    {
+      "id": 218,
+      "slug": "cosmolex",
+      "name": "CosmoLex",
+      "domain": "cosmolex.com",
+      "category": "Practice Management with Legal Accounting",
+      "icp": "Law firms wanting unified trust accounting",
+      "status": "pending"
+    },
+    {
+      "id": 219,
+      "slug": "casepeer",
+      "name": "CASEpeer",
+      "domain": "casepeer.com",
+      "category": "Personal Injury Case Management",
+      "icp": "Personal injury attorneys",
+      "status": "pending"
+    },
+    {
+      "id": 220,
+      "slug": "lawconnect",
+      "name": "LawConnect",
+      "domain": "lawconnect.com",
+      "category": "Client Collaboration for Law Firms",
+      "icp": "Attorneys collaborating with clients",
+      "status": "pending"
+    },
+    {
+      "id": 221,
+      "slug": "legalserver",
+      "name": "LegalServer",
+      "domain": "legalserver.org",
+      "category": "Case Management for Legal Aid & Nonprofits",
+      "icp": "Legal aid organizations and pro bono",
+      "status": "pending"
+    },
+    {
+      "id": 222,
+      "slug": "actionstep",
+      "name": "Actionstep",
+      "domain": "actionstep.com",
+      "category": "Process-Driven Legal Practice Management",
+      "icp": "Growing and mid-market law firms",
+      "status": "pending"
+    },
+    {
+      "id": 223,
+      "slug": "caret-legal",
+      "name": "CARET Legal (Zola Suite)",
+      "domain": "getcaret.com/caret-legal",
+      "category": "Enterprise Legal Practice Management",
+      "icp": "Mid-sized and enterprise law practices",
+      "status": "pending"
+    },
+    {
+      "id": 224,
+      "slug": "meruscase",
+      "name": "MerusCase",
+      "domain": "meruscase.com",
+      "category": "Workers' Compensation & Legal Practice",
+      "icp": "Workers' comp and immigration attorneys",
+      "status": "pending"
+    },
+    {
+      "id": 225,
+      "slug": "centerbase",
+      "name": "Centerbase",
+      "domain": "centerbase.com",
+      "category": "Cloud-Based Legal Practice & Accounting",
+      "icp": "Mid-market law firms (20-100 attorneys)",
+      "status": "pending"
+    },
+    {
+      "id": 226,
+      "slug": "leap-legal",
+      "name": "LEAP Legal Software",
+      "domain": "leap.us",
+      "category": "Legal Practice Software for Small Firms",
+      "icp": "Small law firms and conveyancers",
+      "status": "pending"
+    },
+    {
+      "id": 227,
+      "slug": "abacuslaw",
+      "name": "AbacusLaw",
+      "domain": "abacusnext.com",
+      "category": "Turnkey Legal Practice Management",
+      "icp": "Established traditional law firms",
+      "status": "pending"
+    },
+    {
+      "id": 228,
+      "slug": "amicus-attorney",
+      "name": "Amicus Attorney",
+      "domain": "abacusnext.com/amicus-attorney",
+      "category": "Classic Legal Case Management",
+      "icp": "Small legal practices",
+      "status": "pending"
+    },
+    {
+      "id": 229,
+      "slug": "time59",
+      "name": "Time59",
+      "domain": "time59.com",
+      "category": "Web-Based Legal Billing for Solo Lawyers",
+      "icp": "Solo attorneys wanting affordable billing",
+      "status": "pending"
+    },
+    {
+      "id": 230,
+      "slug": "bill4time",
+      "name": "Bill4Time",
+      "domain": "bill4time.com",
+      "category": "Time Billing & Invoicing for Legal/Consulting",
+      "icp": "Attorneys, accountants, and consultants",
+      "status": "pending"
+    },
+    {
+      "id": 231,
+      "slug": "casefleet",
+      "name": "Casefleet",
+      "domain": "casefleet.com",
+      "category": "Case Management & Fact Chronology",
+      "icp": "Litigators and trial lawyers",
+      "status": "pending"
+    },
+    {
+      "id": 232,
+      "slug": "litify",
+      "name": "Litify",
+      "domain": "litify.com",
+      "category": "Salesforce-Based Enterprise Legal OS",
+      "icp": "Large law firms and corporate legal departments",
+      "status": "pending"
+    },
+    {
+      "id": 233,
+      "slug": "assemblage",
+      "name": "Assemblage",
+      "domain": "assemblage.com",
+      "category": "Document Automation for Law Firms",
+      "icp": "Attorneys drafting heavy documentation",
+      "status": "pending"
+    },
+    {
+      "id": 234,
+      "slug": "lexicata",
+      "name": "Lexicata",
+      "domain": "clio.com/grow",
+      "category": "Legal Client Intake (Clio Grow)",
+      "icp": "Firms managing initial client consultations",
+      "status": "pending"
+    },
+    {
+      "id": 235,
+      "slug": "anvato-legal",
+      "name": "Captorra",
+      "domain": "captorra.com",
+      "category": "Case Intake for Personal Injury",
+      "icp": "High-volume personal injury law firms",
+      "status": "pending"
+    },
+    {
+      "id": 236,
+      "slug": "wealthbox",
+      "name": "Wealthbox",
+      "domain": "wealthbox.com",
+      "category": "Financial Advisor CRM",
+      "icp": "Independent RIAs and financial planners",
+      "status": "pending"
+    },
+    {
+      "id": 237,
+      "slug": "redtail",
+      "name": "Redtail CRM",
+      "domain": "redtailtechnology.com",
+      "category": "Wealth Management CRM",
+      "icp": "Financial advisors and wealth institutions",
+      "status": "pending"
+    },
+    {
+      "id": 238,
+      "slug": "practifi",
+      "name": "Practifi",
+      "domain": "practifi.com",
+      "category": "Salesforce-Native Wealth Business Management",
+      "icp": "High-growth RIAs and wealth enterprises",
+      "status": "pending"
+    },
+    {
+      "id": 239,
+      "slug": "advisorengine",
+      "name": "AdvisorEngine (Junxure)",
+      "domain": "advisorengine.com",
+      "category": "Wealth Management Platform & CRM",
+      "icp": "Registered Investment Advisors",
+      "status": "pending"
+    },
+    {
+      "id": 240,
+      "slug": "xlr8",
+      "name": "XLR8 CRM",
+      "domain": "xlr8crm.com",
+      "category": "Customized Salesforce for Financial Advisors",
+      "icp": "Wealth management firms on Salesforce",
+      "status": "pending"
+    },
+    {
+      "id": 241,
+      "slug": "advyzon",
+      "name": "Advyzon",
+      "domain": "advyzon.com",
+      "category": "All-in-One Platform for RIAs",
+      "icp": "Independent financial advisory practices",
+      "status": "pending"
+    },
+    {
+      "id": 242,
+      "slug": "tamarac",
+      "name": "Envestnet Tamarac CRM",
+      "domain": "tamaracinc.com",
+      "category": "Portfolio Management & Advisor CRM",
+      "icp": "Institutional wealth management firms",
+      "status": "pending"
+    },
+    {
+      "id": 243,
+      "slug": "orion-advisor",
+      "name": "Orion Advisor Technology",
+      "domain": "orion.com",
+      "category": "WealthTech Platform & CRM Integrations",
+      "icp": "Financial advisors managing portfolios",
+      "status": "pending"
+    },
+    {
+      "id": 244,
+      "slug": "surveys-finance",
+      "name": "BridgeFT",
+      "domain": "bridgeft.com",
+      "category": "Wealth Infrastructure & Reporting",
+      "icp": "FinTech builders and wealth managers",
+      "status": "pending"
+    },
+    {
+      "id": 245,
+      "slug": "salesforce-financial-services",
+      "name": "Salesforce Financial Services Cloud",
+      "domain": "salesforce.com/solutions/industries/financial-services",
+      "category": "Wealth, Banking & Insurance Enterprise CRM",
+      "icp": "Banks, wealth managers, and insurers",
+      "status": "pending"
+    },
+    {
+      "id": 246,
+      "slug": "clarimont",
+      "name": "FinFolio",
+      "domain": "finfolio.com",
+      "category": "Portfolio Management & Client Billing",
+      "icp": "Wealth managers and family offices",
+      "status": "pending"
+    },
+    {
+      "id": 247,
+      "slug": "truelytics",
+      "name": "Truelytics",
+      "domain": "truelytics.com",
+      "category": "Advisor Practice Management & Valuation",
+      "icp": "Wealth firms and broker-dealers",
+      "status": "pending"
+    },
+    {
+      "id": 248,
+      "slug": "pulse360",
+      "name": "Pulse360",
+      "domain": "pulse360.com",
+      "category": "Meeting Notes & Documentation for Advisors",
+      "icp": "Financial advisors conducting client reviews",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "slug": "hubly",
+      "name": "Hubly",
+      "domain": "myhubly.com",
+      "category": "Workflow Automation for Financial Planners",
+      "icp": "Advisory teams streamlining operations",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "slug": "nitra",
+      "name": "Nitra",
+      "domain": "nitra.com",
+      "category": "Medical & Financial Practice Management",
+      "icp": "Healthcare and specialty financial firms",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "slug": "ebix-smartoffice",
+      "name": "Ebix SmartOffice",
+      "domain": "smartoffice.ebix.com",
+      "category": "Financial Services CRM & Practice Management",
+      "icp": "Life insurance and wealth advisors",
+      "status": "pending"
+    },
+    {
+      "id": 252,
+      "slug": "finao",
+      "name": "FinaMetrica",
+      "domain": "finao.com",
+      "category": "Risk Profiling & Client Intake",
+      "icp": "Financial planners assessing client risk",
+      "status": "pending"
+    },
+    {
+      "id": 253,
+      "slug": "broadridge-advisor",
+      "name": "Broadridge Advisor Solutions",
+      "domain": "broadridge.com",
+      "category": "Marketing & Client Portal for Advisors",
+      "icp": "Financial advisory practices",
+      "status": "pending"
+    },
+    {
+      "id": 254,
+      "slug": "snappy-kraken",
+      "name": "Snappy Kraken",
+      "domain": "snappykraken.com",
+      "category": "Marketing Automation for Financial Advisors",
+      "icp": "RIAs driving client acquisition",
+      "status": "pending"
+    },
+    {
+      "id": 255,
+      "slug": "fmg-suite",
+      "name": "FMG Suite",
+      "domain": "fmgsuite.com",
+      "category": "Marketing & Communication for Financial Pros",
+      "icp": "Advisors building online presence",
+      "status": "pending"
+    },
+    {
+      "id": 256,
+      "slug": "buildertrend",
+      "name": "Buildertrend",
+      "domain": "buildertrend.com",
+      "category": "Construction Project Management & CRM",
+      "icp": "Home builders, remodelers, specialty contractors",
+      "status": "pending"
+    },
+    {
+      "id": 257,
+      "slug": "procore",
+      "name": "Procore",
+      "domain": "procore.com",
+      "category": "Construction Management Software",
+      "icp": "General contractors, owners, and developers",
+      "status": "pending"
+    },
+    {
+      "id": 258,
+      "slug": "coconstruct",
+      "name": "CoConstruct",
+      "domain": "coconstruct.com",
+      "category": "Custom Home Builder & Remodeler Software",
+      "icp": "Custom home builders and design-build firms",
+      "status": "pending"
+    },
+    {
+      "id": 259,
+      "slug": "builder-prime",
+      "name": "Builder Prime",
+      "domain": "builderprime.com",
+      "category": "CRM & Production for Contractors",
+      "icp": "Roofers, painters, and specialty remodelers",
+      "status": "pending"
+    },
+    {
+      "id": 260,
+      "slug": "jobnimbus",
+      "name": "JobNimbus",
+      "domain": "jobnimbus.com",
+      "category": "Roofing & Contractor CRM Software",
+      "icp": "Roofing contractors and exterior remodelers",
+      "status": "pending"
+    },
+    {
+      "id": 261,
+      "slug": "acculynx",
+      "name": "AccuLynx",
+      "domain": "acculynx.com",
+      "category": "Roofing Contractor Software",
+      "icp": "Commercial and residential roofing companies",
+      "status": "pending"
+    },
+    {
+      "id": 262,
+      "slug": "roofr",
+      "name": "Roofr",
+      "domain": "roofr.com",
+      "category": "Roofing Proposals & Aerial Measurements",
+      "icp": "Roofing contractors streamlining estimates",
+      "status": "pending"
+    },
+    {
+      "id": 263,
+      "slug": "leap-contractor",
+      "name": "Leap",
+      "domain": "leaptolswitch.com",
+      "category": "Point of Sale & Estimating for Contractors",
+      "icp": "Home improvement contractors in the home",
+      "status": "pending"
+    },
+    {
+      "id": 264,
+      "slug": "houzz-pro",
+      "name": "Houzz Pro",
+      "domain": "houzz.com/pro",
+      "category": "Design & Construction Business Management",
+      "icp": "Interior designers, architects, and remodelers",
+      "status": "pending"
+    },
+    {
+      "id": 265,
+      "slug": "contractor-plus",
+      "name": "Contractor+",
+      "domain": "contractorplus.app",
+      "category": "Field Service & Estimating for Contractors",
+      "icp": "Handymen, painters, and small trades",
+      "status": "pending"
+    },
+    {
+      "id": 266,
+      "slug": "builder-trend-lead",
+      "name": "LeadPerfection",
+      "domain": "leadperfection.com",
+      "category": "CRM for Remodelers & Home Improvement",
+      "icp": "High-volume direct-to-consumer remodelers",
+      "status": "pending"
+    },
+    {
+      "id": 267,
+      "slug": "marketsharp",
+      "name": "MarketSharp",
+      "domain": "marketsharp.com",
+      "category": "CRM for Remodelers & Contractors",
+      "icp": "Window, siding, and roofing companies",
+      "status": "pending"
+    },
+    {
+      "id": 268,
+      "slug": "improveit360",
+      "name": "improveit 360",
+      "domain": "improveit360.com",
+      "category": "Salesforce-Based Remodeling CRM",
+      "icp": "Franchise and multi-location home remodelers",
+      "status": "pending"
+    },
+    {
+      "id": 269,
+      "slug": "redteam",
+      "name": "RedTeam",
+      "domain": "redteam.com",
+      "category": "Commercial Construction Project Management",
+      "icp": "Commercial general contractors",
+      "status": "pending"
+    },
+    {
+      "id": 270,
+      "slug": "plangrid",
+      "name": "Autodesk Build (PlanGrid)",
+      "domain": "autodesk.com/products/autodesk-build",
+      "category": "Construction Document & Field Management",
+      "icp": "Engineers, architects, and site superintendents",
+      "status": "pending"
+    },
+    {
+      "id": 271,
+      "slug": "projul",
+      "name": "Projul",
+      "domain": "projul.com",
+      "category": "Simple Construction Management Software",
+      "icp": "Small to mid-size general contractors",
+      "status": "pending"
+    },
+    {
+      "id": 272,
+      "slug": "constructor",
+      "name": "Builderbox",
+      "domain": "builderbox.io",
+      "category": "Construction Workflow & Safety Software",
+      "icp": "Jobsite safety and field management",
+      "status": "pending"
+    },
+    {
+      "id": 273,
+      "slug": "buildxact",
+      "name": "Buildxact",
+      "domain": "buildxact.com",
+      "category": "Estimating & Construction Management",
+      "icp": "Residential custom builders and remodelers",
+      "status": "pending"
+    },
+    {
+      "id": 274,
+      "slug": "knowify",
+      "name": "Knowify",
+      "domain": "knowify.com",
+      "category": "Job Costing & Commercial Subcontractor Software",
+      "icp": "Specialty trade subcontractors",
+      "status": "pending"
+    },
+    {
+      "id": 275,
+      "slug": "contractor-foreman",
+      "name": "Contractor Foreman",
+      "domain": "contractorforeman.com",
+      "category": "Affordable Construction Management",
+      "icp": "General contractors needing budget software",
+      "status": "pending"
+    },
+    {
+      "id": 276,
+      "slug": "honeybook",
+      "name": "HoneyBook",
+      "domain": "honeybook.com",
+      "category": "Clientflow Management Platform",
+      "icp": "Independent service businesses and freelancers",
+      "status": "pending"
+    },
+    {
+      "id": 277,
+      "slug": "dubsado",
+      "name": "Dubsado",
+      "domain": "dubsado.com",
+      "category": "Client Management for Creatives",
+      "icp": "Photographers, event planners, and solo designers",
+      "status": "pending"
+    },
+    {
+      "id": 278,
+      "slug": "bonsai",
+      "name": "Bonsai",
+      "domain": "hellobonsai.com",
+      "category": "All-in-One Freelancer Suite",
+      "icp": "Consultants, freelancers, and small boutique agencies",
+      "status": "pending"
+    },
+    {
+      "id": 279,
+      "slug": "seventeen-hats",
+      "name": "17hats",
+      "domain": "17hats.com",
+      "category": "Solopreneur Business Automation",
+      "icp": "Single-operator service professionals",
+      "status": "pending"
+    },
+    {
+      "id": 280,
+      "slug": "moxie",
+      "name": "Moxie (formerly Hectic)",
+      "domain": "withmoxie.com",
+      "category": "Freelance Business Management",
+      "icp": "Freelancers and boutique solo agencies",
+      "status": "pending"
+    },
+    {
+      "id": 281,
+      "slug": "bloom-io",
+      "name": "Bloom.io",
+      "domain": "bloom.io",
+      "category": "Studio Management Software",
+      "icp": "Creative entrepreneurs and visual artists",
+      "status": "pending"
+    },
+    {
+      "id": 282,
+      "slug": "plutio",
+      "name": "Plutio",
+      "domain": "plutio.com",
+      "category": "All-in-One Business Management",
+      "icp": "Small agencies and project-based freelancers",
+      "status": "pending"
+    },
+    {
+      "id": 283,
+      "slug": "indy",
+      "name": "Indy",
+      "domain": "weareindy.com",
+      "category": "Freelancer Invoicing & Contract Tool",
+      "icp": "Independent contractors and gig workers",
+      "status": "pending"
+    },
+    {
+      "id": 284,
+      "slug": "harlow",
+      "name": "Harlow",
+      "domain": "meetharlow.com",
+      "category": "Freelancer CRM & Billing",
+      "icp": "Solo service providers",
+      "status": "pending"
+    },
+    {
+      "id": 285,
+      "slug": "fiverr-workspace",
+      "name": "Fiverr Workspace (AND.CO)",
+      "domain": "workspace.fiverr.com",
+      "category": "Freelance Invoicing & Contract Suite",
+      "icp": "Fiverr sellers and remote gig pros",
+      "status": "pending"
+    },
+    {
+      "id": 286,
+      "slug": "practice-do",
+      "name": "Practice.do",
+      "domain": "practice.do",
+      "category": "Client Management for Coaches",
+      "icp": "Executive, career, and life coaches",
+      "status": "pending"
+    },
+    {
+      "id": 287,
+      "slug": "paperbell",
+      "name": "Paperbell",
+      "domain": "paperbell.com",
+      "category": "Coaching Business Software",
+      "icp": "Life, wellness, and business coaches",
+      "status": "pending"
+    },
+    {
+      "id": 288,
+      "slug": "coachaccountable",
+      "name": "CoachAccountable",
+      "domain": "coachaccountable.com",
+      "category": "Coaching Management Software",
+      "icp": "Coaches tracking client accountability",
+      "status": "pending"
+    },
+    {
+      "id": 289,
+      "slug": "delighted",
+      "name": "Delighted by Qualtrics",
+      "domain": "delighted.com",
+      "category": "NPS & Customer Feedback Platform",
+      "icp": "Product and customer success leaders",
+      "status": "pending"
+    },
+    {
+      "id": 290,
+      "slug": "sprout-studio",
+      "name": "Sprout Studio",
+      "domain": "getsproutstudio.com",
+      "category": "Studio Management for Photographers",
+      "icp": "Professional portrait and wedding photographers",
+      "status": "pending"
+    },
+    {
+      "id": 291,
+      "slug": "pixieset",
+      "name": "Pixieset Studio Manager",
+      "domain": "pixieset.com/studio-manager",
+      "category": "Client Gallery & Booking for Creatives",
+      "icp": "Wedding and event photographers",
+      "status": "pending"
+    },
+    {
+      "id": 292,
+      "slug": "shootproof",
+      "name": "ShootProof",
+      "domain": "shootproof.com",
+      "category": "Online Photo Sales & Contracts",
+      "icp": "Professional photography studios",
+      "status": "pending"
+    },
+    {
+      "id": 293,
+      "slug": "studiorack",
+      "name": "Tave",
+      "domain": "tave.com",
+      "category": "Creative Studio Management",
+      "icp": "High-volume photography businesses",
+      "status": "pending"
+    },
+    {
+      "id": 294,
+      "slug": "unscripted",
+      "name": "Unscripted Posing & CRM",
+      "domain": "unscriptedposingapp.com",
+      "category": "Photography Posing & Client Management",
+      "icp": "Family and couples photographers",
+      "status": "pending"
+    },
+    {
+      "id": 295,
+      "slug": "iris-works",
+      "name": "Iris Works",
+      "domain": "iris-works.com",
+      "category": "Photography Studio Management",
+      "icp": "Portrait photographers",
+      "status": "pending"
+    },
+    {
+      "id": 296,
+      "slug": "curator-app",
+      "name": "Curator",
+      "domain": "curatorlive.com",
+      "category": "Photo Booth Software & Lead Collection",
+      "icp": "Event photo booth operators",
+      "status": "pending"
+    },
+    {
+      "id": 297,
+      "slug": "goodshuffle-pro",
+      "name": "Goodshuffle Pro",
+      "domain": "goodshuffle.com",
+      "category": "Event Rental & Decor Business Software",
+      "icp": "Event rental companies and party planners",
+      "status": "pending"
+    },
+    {
+      "id": 298,
+      "slug": "rent-my",
+      "name": "Rentopian",
+      "domain": "rentopian.com",
+      "category": "Event Rental Inventory Software",
+      "icp": "Equipment and party rental businesses",
+      "status": "pending"
+    },
+    {
+      "id": 299,
+      "slug": "maroo",
+      "name": "Maroo",
+      "domain": "maroo.com",
+      "category": "Weddings & Events Payments Platform",
+      "icp": "Wedding vendors and event venues",
+      "status": "pending"
+    },
+    {
+      "id": 300,
+      "slug": "planning-pod",
+      "name": "Planning Pod",
+      "domain": "planningpod.com",
+      "category": "Event Management & Venue Software",
+      "icp": "Event planners and hospitality venues",
+      "status": "pending"
+    },
+    {
+      "id": 301,
+      "slug": "zendesk",
+      "name": "Zendesk",
+      "domain": "zendesk.com",
+      "category": "Customer Support & Ticketing",
+      "icp": "Mid-market and enterprise customer service",
+      "status": "pending"
+    },
+    {
+      "id": 302,
+      "slug": "help-scout",
+      "name": "Help Scout",
+      "domain": "helpscout.com",
+      "category": "Customer Support Desk",
+      "icp": "Customer-first growing businesses",
+      "status": "pending"
+    },
+    {
+      "id": 303,
+      "slug": "front",
+      "name": "Front",
+      "domain": "front.com",
+      "category": "Customer Communication Hub",
+      "icp": "Client service, logistics, and account teams",
+      "status": "pending"
+    },
+    {
+      "id": 304,
+      "slug": "intercom",
+      "name": "Intercom",
+      "domain": "intercom.com",
+      "category": "AI Customer Service & Live Chat",
+      "icp": "SaaS and digital businesses",
+      "status": "pending"
+    },
+    {
+      "id": 305,
+      "slug": "freshdesk",
+      "name": "Freshdesk",
+      "domain": "freshworks.com/freshdesk",
+      "category": "Omnichannel Customer Support",
+      "icp": "SMB to mid-market customer support",
+      "status": "pending"
+    },
+    {
+      "id": 306,
+      "slug": "gorgias",
+      "name": "Gorgias",
+      "domain": "gorgias.com",
+      "category": "E-Commerce Customer Service Helpdesk",
+      "icp": "Shopify and direct-to-consumer e-commerce brands",
+      "status": "pending"
+    },
+    {
+      "id": 307,
+      "slug": "kustomer",
+      "name": "Kustomer",
+      "domain": "kustomer.com",
+      "category": "Modern Customer Service CRM",
+      "icp": "High-volume consumer brands and scale-ups",
+      "status": "pending"
+    },
+    {
+      "id": 308,
+      "slug": "gladly",
+      "name": "Gladly",
+      "domain": "gladly.com",
+      "category": "People-Centered Customer Service",
+      "icp": "Hospitality, retail, and direct-to-consumer",
+      "status": "pending"
+    },
+    {
+      "id": 309,
+      "slug": "dixa",
+      "name": "Dixa",
+      "domain": "dixa.com",
+      "category": "Conversational Customer Service Platform",
+      "icp": "Customer-centric European brands",
+      "status": "pending"
+    },
+    {
+      "id": 310,
+      "slug": "kayako",
+      "name": "Kayako",
+      "domain": "kayako.com",
+      "category": "Help Desk & Customer Service Software",
+      "icp": "SaaS support teams",
+      "status": "pending"
+    },
+    {
+      "id": 311,
+      "slug": "liveagent",
+      "name": "LiveAgent",
+      "domain": "liveagent.com",
+      "category": "Help Desk & Live Chat Software",
+      "icp": "Budget-conscious e-commerce and web hosting",
+      "status": "pending"
+    },
+    {
+      "id": 312,
+      "slug": "groove-hq",
+      "name": "Groove",
+      "domain": "groovehq.com",
+      "category": "Simple Help Desk Software",
+      "icp": "Small businesses and growing web companies",
+      "status": "pending"
+    },
+    {
+      "id": 313,
+      "slug": "crisp",
+      "name": "Crisp",
+      "domain": "crisp.chat",
+      "category": "All-in-One Business Messaging",
+      "icp": "Startups, SaaS, and customer support",
+      "status": "pending"
+    },
+    {
+      "id": 314,
+      "slug": "tidio",
+      "name": "Tidio",
+      "domain": "tidio.com",
+      "category": "Live Chat & AI Chatbots",
+      "icp": "Small e-commerce stores and agencies",
+      "status": "pending"
+    },
+    {
+      "id": 315,
+      "slug": "hiver",
+      "name": "Hiver",
+      "domain": "hiverhq.com",
+      "category": "Gmail-Based Customer Service",
+      "icp": "Teams providing support directly from Google Workspace",
+      "status": "pending"
+    },
+    {
+      "id": 316,
+      "slug": "missive",
+      "name": "Missive",
+      "domain": "missiveapp.com",
+      "category": "Collaborative Email & Chat",
+      "icp": "Remote teams managing shared inboxes",
+      "status": "pending"
+    },
+    {
+      "id": 317,
+      "slug": "happyfox",
+      "name": "HappyFox",
+      "domain": "happyfox.com",
+      "category": "Help Desk & Task Management",
+      "icp": "Mid-market IT and customer service teams",
+      "status": "pending"
+    },
+    {
+      "id": 318,
+      "slug": "deskpro",
+      "name": "Deskpro",
+      "domain": "deskpro.com",
+      "category": "On-Premise & Cloud Helpdesk",
+      "icp": "Enterprises with high data privacy needs",
+      "status": "pending"
+    },
+    {
+      "id": 319,
+      "slug": "zoho-desk",
+      "name": "Zoho Desk",
+      "domain": "zoho.com/desk",
+      "category": "Context-Aware Customer Support",
+      "icp": "Companies in the Zoho ecosystem",
+      "status": "pending"
+    },
+    {
+      "id": 320,
+      "slug": "jira-service-management",
+      "name": "Jira Service Management",
+      "domain": "atlassian.com/software/jira/service-management",
+      "category": "ITSM & Customer Service Desk",
+      "icp": "Technical support and DevOps teams",
+      "status": "pending"
+    },
+    {
+      "id": 321,
+      "slug": "klaviyo",
+      "name": "Klaviyo",
+      "domain": "klaviyo.com",
+      "category": "E-Commerce Email & SMS Marketing",
+      "icp": "Shopify and e-commerce stores",
+      "status": "pending"
+    },
+    {
+      "id": 322,
+      "slug": "mailchimp",
+      "name": "Mailchimp",
+      "domain": "mailchimp.com",
+      "category": "Email Marketing & Automation",
+      "icp": "SMBs, creators, and freelancers",
+      "status": "pending"
+    },
+    {
+      "id": 323,
+      "slug": "brevo",
+      "name": "Brevo",
+      "domain": "brevo.com",
+      "category": "Marketing Suite & CRM",
+      "icp": "Growing businesses needing multichannel marketing",
+      "status": "pending"
+    },
+    {
+      "id": 324,
+      "slug": "ortto",
+      "name": "Ortto",
+      "domain": "ortto.com",
+      "category": "Customer Journey & Analytics",
+      "icp": "Data-driven SaaS and e-commerce businesses",
+      "status": "pending"
+    },
+    {
+      "id": 325,
+      "slug": "customer-io",
+      "name": "Customer.io",
+      "domain": "customer.io",
+      "category": "Automated Messaging Platform",
+      "icp": "Tech companies & product-led growth apps",
+      "status": "pending"
+    },
+    {
+      "id": 326,
+      "slug": "omnisend",
+      "name": "Omnisend",
+      "domain": "omnisend.com",
+      "category": "E-Commerce Email & SMS",
+      "icp": "Shopify, BigCommerce, and WooCommerce stores",
+      "status": "pending"
+    },
+    {
+      "id": 327,
+      "slug": "drip",
+      "name": "Drip",
+      "domain": "drip.com",
+      "category": "E-Commerce Marketing Automation",
+      "icp": "Direct-to-consumer retail brands",
+      "status": "pending"
+    },
+    {
+      "id": 328,
+      "slug": "constant-contact",
+      "name": "Constant Contact",
+      "domain": "constantcontact.com",
+      "category": "Email & Digital Marketing for SMB",
+      "icp": "Small businesses, nonprofits, and community groups",
+      "status": "pending"
+    },
+    {
+      "id": 329,
+      "slug": "campaign-monitor",
+      "name": "Campaign Monitor",
+      "domain": "campaignmonitor.com",
+      "category": "Email Marketing for Designers & Brands",
+      "icp": "Agencies and marketing teams",
+      "status": "pending"
+    },
+    {
+      "id": 330,
+      "slug": "getresponse",
+      "name": "GetResponse",
+      "domain": "getresponse.com",
+      "category": "Email Marketing & Automation Funnels",
+      "icp": "Affiliate marketers and growing businesses",
+      "status": "pending"
+    },
+    {
+      "id": 331,
+      "slug": "aweber",
+      "name": "AWeber",
+      "domain": "aweber.com",
+      "category": "Email Marketing for Small Business",
+      "icp": "Content creators and small businesses",
+      "status": "pending"
+    },
+    {
+      "id": 332,
+      "slug": "kit",
+      "name": "Kit (formerly ConvertKit)",
+      "domain": "kit.com",
+      "category": "Newsletter & Marketing for Creators",
+      "icp": "Writers, podcasters, YouTubers, and coaches",
+      "status": "pending"
+    },
+    {
+      "id": 333,
+      "slug": "benchmark-email",
+      "name": "Benchmark Email",
+      "domain": "benchmarkemail.com",
+      "category": "Simple Email Marketing",
+      "icp": "Small business marketing teams",
+      "status": "pending"
+    },
+    {
+      "id": 334,
+      "slug": "moosend",
+      "name": "Moosend",
+      "domain": "moosend.com",
+      "category": "Affordable Email Marketing & Automation",
+      "icp": "Small agencies and startups",
+      "status": "pending"
+    },
+    {
+      "id": 335,
+      "slug": "mailerlite",
+      "name": "MailerLite",
+      "domain": "mailerlite.com",
+      "category": "Intuitive Email Marketing Tool",
+      "icp": "Authors, bloggers, and small business owners",
+      "status": "pending"
+    },
+    {
+      "id": 336,
+      "slug": "marketo",
+      "name": "Adobe Marketo Engage",
+      "domain": "business.adobe.com/products/marketo",
+      "category": "Enterprise B2B Marketing Automation",
+      "icp": "Fortune 500 B2B revenue teams",
+      "status": "pending"
+    },
+    {
+      "id": 337,
+      "slug": "pardot",
+      "name": "Salesforce Marketing Cloud Account Engagement",
+      "domain": "salesforce.com/products/marketing-cloud",
+      "category": "B2B Marketing Automation",
+      "icp": "Enterprises using Salesforce CRM",
+      "status": "pending"
+    },
+    {
+      "id": 338,
+      "slug": "eloqua",
+      "name": "Oracle Eloqua",
+      "domain": "oracle.com/cx/marketing/automation",
+      "category": "Enterprise Marketing Automation",
+      "icp": "Large global B2B corporations",
+      "status": "pending"
+    },
+    {
+      "id": 339,
+      "slug": "jotform",
+      "name": "Jotform",
+      "domain": "jotform.com",
+      "category": "Online Forms & Workflow Automation",
+      "icp": "Businesses needing data capture and forms",
+      "status": "pending"
+    },
+    {
+      "id": 340,
+      "slug": "typeform",
+      "name": "Typeform",
+      "domain": "typeform.com",
+      "category": "Conversational Online Forms",
+      "icp": "Brand-conscious lead generation and surveys",
+      "status": "pending"
+    },
+    {
+      "id": 341,
+      "slug": "formstack",
+      "name": "Formstack",
+      "domain": "formstack.com",
+      "category": "Workplace Productivity & Secure Forms",
+      "icp": "Healthcare, finance, and enterprise operations",
+      "status": "pending"
+    },
+    {
+      "id": 342,
+      "slug": "paperform",
+      "name": "Paperform",
+      "domain": "paperform.com",
+      "category": "Design-First Forms & Payment Pages",
+      "icp": "Creatives and boutique agencies",
+      "status": "pending"
+    },
+    {
+      "id": 343,
+      "slug": "tally",
+      "name": "Tally Forms",
+      "domain": "tally.so",
+      "category": "Notion-Like Free Form Builder",
+      "icp": "Indie hackers, startups, and creators",
+      "status": "pending"
+    },
+    {
+      "id": 344,
+      "slug": "fillout",
+      "name": "Fillout",
+      "domain": "fillout.com",
+      "category": "Forms for Airtable & Notion",
+      "icp": "No-code operations teams",
+      "status": "pending"
+    },
+    {
+      "id": 345,
+      "slug": "leadpages",
+      "name": "Leadpages",
+      "domain": "leadpages.com",
+      "category": "Landing Page Builder & Lead Gen",
+      "icp": "Coaches, consultants, and digital marketers",
+      "status": "pending"
+    },
+    {
+      "id": 346,
+      "slug": "unbounce",
+      "name": "Unbounce",
+      "domain": "unbounce.com",
+      "category": "AI-Powered Landing Page Builder",
+      "icp": "PPC agencies and conversion marketers",
+      "status": "pending"
+    },
+    {
+      "id": 347,
+      "slug": "instapage",
+      "name": "Instapage",
+      "domain": "instapage.com",
+      "category": "Enterprise Landing Page Platform",
+      "icp": "High-budget advertising teams",
+      "status": "pending"
+    },
+    {
+      "id": 348,
+      "slug": "clickfunnels",
+      "name": "ClickFunnels",
+      "domain": "clickfunnels.com",
+      "category": "Sales Funnel Builder & Marketing",
+      "icp": "Course creators, infoproduct sellers, and coaches",
+      "status": "pending"
+    },
+    {
+      "id": 349,
+      "slug": "kajabi",
+      "name": "Kajabi",
+      "domain": "kajabi.com",
+      "category": "Course & Knowledge Commerce Platform",
+      "icp": "Online educators and digital creators",
+      "status": "pending"
+    },
+    {
+      "id": 350,
+      "slug": "kartra",
+      "name": "Kartra",
+      "domain": "kartra.com",
+      "category": "All-in-One Online Business Platform",
+      "icp": "Coaches, consultants, and digital marketing pros",
+      "status": "pending"
+    },
+    {
+      "id": 351,
+      "slug": "clickup",
+      "name": "ClickUp",
+      "domain": "clickup.com",
+      "category": "All-in-One Productivity Platform",
+      "icp": "Agencies, tech teams, and SMB project managers",
+      "status": "pending"
+    },
+    {
+      "id": 352,
+      "slug": "monday",
+      "name": "monday.com",
+      "domain": "monday.com",
+      "category": "Work OS & CRM",
+      "icp": "Teams needing visual workflow and task tracking",
+      "status": "pending"
+    },
+    {
+      "id": 353,
+      "slug": "airtable",
+      "name": "Airtable",
+      "domain": "airtable.com",
+      "category": "No-Code Relational Database Platform",
+      "icp": "Operations and product teams building custom apps",
+      "status": "pending"
+    },
+    {
+      "id": 354,
+      "slug": "notion",
+      "name": "Notion",
+      "domain": "notion.so",
+      "category": "Connected Workspace & Docs",
+      "icp": "Knowledge workers, startups, and creative teams",
+      "status": "pending"
+    },
+    {
+      "id": 355,
+      "slug": "asana",
+      "name": "Asana",
+      "domain": "asana.com",
+      "category": "Work & Project Management",
+      "icp": "Cross-functional enterprise and mid-market teams",
+      "status": "pending"
+    },
+    {
+      "id": 356,
+      "slug": "trello",
+      "name": "Trello",
+      "domain": "trello.com",
+      "category": "Kanban Board Project Management",
+      "icp": "Simple task tracking for small teams",
+      "status": "pending"
+    },
+    {
+      "id": 357,
+      "slug": "wrike",
+      "name": "Wrike",
+      "domain": "wrike.com",
+      "category": "Enterprise Work Management Platform",
+      "icp": "Marketing and creative project teams",
+      "status": "pending"
+    },
+    {
+      "id": 358,
+      "slug": "smartsheet",
+      "name": "Smartsheet",
+      "domain": "smartsheet.com",
+      "category": "Spreadsheet-Based Enterprise Work",
+      "icp": "Corporate PMOs and operational teams",
+      "status": "pending"
+    },
+    {
+      "id": 359,
+      "slug": "basecamp",
+      "name": "Basecamp",
+      "domain": "basecamp.com",
+      "category": "Calm Project Management & Team Chat",
+      "icp": "Small business teams and remote agencies",
+      "status": "pending"
+    },
+    {
+      "id": 360,
+      "slug": "teamwork",
+      "name": "Teamwork.com",
+      "domain": "teamwork.com",
+      "category": "Project Management for Client Work",
+      "icp": "Agencies, consultancies, and professional services",
+      "status": "pending"
+    },
+    {
+      "id": 361,
+      "slug": "podio",
+      "name": "Citrix Podio",
+      "domain": "podio.com",
+      "category": "Customizable Work & Lead Workspace",
+      "icp": "Real estate wholesalers and project teams",
+      "status": "pending"
+    },
+    {
+      "id": 362,
+      "slug": "hive",
+      "name": "Hive",
+      "domain": "hive.com",
+      "category": "Productivity Platform for Fast Teams",
+      "icp": "Agencies and creative teams",
+      "status": "pending"
+    },
+    {
+      "id": 363,
+      "slug": "meistertask",
+      "name": "MeisterTask",
+      "domain": "meistertask.com",
+      "category": "Secure Task Management for Teams",
+      "icp": "European compliance-conscious teams",
+      "status": "pending"
+    },
+    {
+      "id": 364,
+      "slug": "coda",
+      "name": "Coda",
+      "domain": "coda.io",
+      "category": "All-in-One Doc & Workflow Platform",
+      "icp": "Product managers and operational teams",
+      "status": "pending"
+    },
+    {
+      "id": 365,
+      "slug": "fibery",
+      "name": "Fibery",
+      "domain": "fibery.io",
+      "category": "Work Management & Knowledge Platform",
+      "icp": "Product teams and complex knowledge workers",
+      "status": "pending"
+    },
+    {
+      "id": 366,
+      "slug": "anytype",
+      "name": "Anytype",
+      "domain": "anytype.io",
+      "category": "Decentralized Local-First Workspace",
+      "icp": "Privacy advocates and developers",
+      "status": "pending"
+    },
+    {
+      "id": 367,
+      "slug": "obsidian",
+      "name": "Obsidian",
+      "domain": "obsidian.md",
+      "category": "Personal Knowledge Base & Notes",
+      "icp": "Researchers, writers, and knowledge workers",
+      "status": "pending"
+    },
+    {
+      "id": 368,
+      "slug": "logseq",
+      "name": "Logseq",
+      "domain": "logseq.com",
+      "category": "Privacy-First Knowledge Management",
+      "icp": "Academics and personal organizers",
+      "status": "pending"
+    },
+    {
+      "id": 369,
+      "slug": "superlist",
+      "name": "Superlist",
+      "domain": "superlist.com",
+      "category": "Modern Task & Notes App",
+      "icp": "Design-driven individuals and small teams",
+      "status": "pending"
+    },
+    {
+      "id": 370,
+      "slug": "linear",
+      "name": "Linear",
+      "domain": "linear.app",
+      "category": "Issue & Project Tracking for Software",
+      "icp": "Software engineering and design teams",
+      "status": "pending"
+    },
+    {
+      "id": 371,
+      "slug": "pandadoc",
+      "name": "PandaDoc",
+      "domain": "pandadoc.com",
+      "category": "Document Automation & e-Signatures",
+      "icp": "Sales teams sending proposals and contracts",
+      "status": "pending"
+    },
+    {
+      "id": 372,
+      "slug": "proposify",
+      "name": "Proposify",
+      "domain": "proposify.com",
+      "category": "Proposal Software for Modern Sales",
+      "icp": "Agencies and B2B sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 373,
+      "slug": "docusign",
+      "name": "DocuSign",
+      "domain": "docusign.com",
+      "category": "Electronic Signature & Contract Lifecycle",
+      "icp": "Enterprise legal, HR, and sales operations",
+      "status": "pending"
+    },
+    {
+      "id": 374,
+      "slug": "signnow",
+      "name": "SignNow (airSlate)",
+      "domain": "signnow.com",
+      "category": "E-Signature for Small Business",
+      "icp": "SMBs needing budget-friendly e-signatures",
+      "status": "pending"
+    },
+    {
+      "id": 375,
+      "slug": "adobe-sign",
+      "name": "Adobe Acrobat Sign",
+      "domain": "adobe.com/sign",
+      "category": "Enterprise Electronic Signatures",
+      "icp": "Enterprises using Adobe ecosystem",
+      "status": "pending"
+    },
+    {
+      "id": 376,
+      "slug": "hellosign",
+      "name": "Dropbox Sign (HelloSign)",
+      "domain": "sign.dropbox.com",
+      "category": "Simple Electronic Signature Tool",
+      "icp": "SMBs and freelancers using Dropbox",
+      "status": "pending"
+    },
+    {
+      "id": 377,
+      "slug": "qwilr",
+      "name": "Qwilr",
+      "domain": "qwilr.com",
+      "category": "Web-Based Interactive Proposals",
+      "icp": "Agencies and tech sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 378,
+      "slug": "better-proposals",
+      "name": "Better Proposals",
+      "domain": "betterproposals.io",
+      "category": "Online Proposals & Digital Contracts",
+      "icp": "Freelancers and digital agencies",
+      "status": "pending"
+    },
+    {
+      "id": 379,
+      "slug": "getaccept",
+      "name": "GetAccept",
+      "domain": "getaccept.com",
+      "category": "Digital Sales Room & e-Signatures",
+      "icp": "B2B sales teams closing complex deals",
+      "status": "pending"
+    },
+    {
+      "id": 380,
+      "slug": "dealfront-sign",
+      "name": "Oneflow",
+      "domain": "oneflow.com",
+      "category": "Digital Contract Platform",
+      "icp": "European sales, HR, and procurement",
+      "status": "pending"
+    },
+    {
+      "id": 381,
+      "slug": "conga",
+      "name": "Conga",
+      "domain": "conga.com",
+      "category": "Revenue Lifecycle & Contract Ops",
+      "icp": "Salesforce enterprise customers",
+      "status": "pending"
+    },
+    {
+      "id": 382,
+      "slug": "ironclad",
+      "name": "Ironclad",
+      "domain": "ironcladapp.com",
+      "category": "Contract Lifecycle Management (CLM)",
+      "icp": "In-house corporate legal teams",
+      "status": "pending"
+    },
+    {
+      "id": 383,
+      "slug": "contractbook",
+      "name": "Contractbook",
+      "domain": "contractbook.com",
+      "category": "Contract Management for Small Business",
+      "icp": "SMB legal, HR, and procurement teams",
+      "status": "pending"
+    },
+    {
+      "id": 384,
+      "slug": "eversign",
+      "name": "Eversign",
+      "domain": "eversign.com",
+      "category": "Secure Electronic Signatures",
+      "icp": "Small businesses and developers",
+      "status": "pending"
+    },
+    {
+      "id": 385,
+      "slug": "signwell",
+      "name": "SignWell (Docsketch)",
+      "domain": "signwell.com",
+      "category": "Free & Simple Electronic Signatures",
+      "icp": "Small businesses and individual pros",
+      "status": "pending"
+    },
+    {
+      "id": 386,
+      "slug": "sproutsocial",
+      "name": "Sprout Social",
+      "domain": "sproutsocial.com",
+      "category": "Social Media Management & Listening",
+      "icp": "Agencies and corporate marketing departments",
+      "status": "pending"
+    },
+    {
+      "id": 387,
+      "slug": "hootsuite",
+      "name": "Hootsuite",
+      "domain": "hootsuite.com",
+      "category": "Social Media Marketing & Management",
+      "icp": "Marketing agencies and enterprise social teams",
+      "status": "pending"
+    },
+    {
+      "id": 388,
+      "slug": "buffer",
+      "name": "Buffer",
+      "domain": "buffer.com",
+      "category": "Social Media Scheduling for SMBs",
+      "icp": "Creators, indie hackers, and small businesses",
+      "status": "pending"
+    },
+    {
+      "id": 389,
+      "slug": "yext",
+      "name": "Yext",
+      "domain": "yext.com",
+      "category": "Local Listings & Digital Presence",
+      "icp": "Multi-location enterprise brands",
+      "status": "pending"
+    },
+    {
+      "id": 390,
+      "slug": "rb2b",
+      "name": "RB2B",
+      "domain": "rb2b.com",
+      "category": "B2B Website Visitor Identification",
+      "icp": "US B2B marketing teams needing Slack alerts",
+      "status": "pending"
+    },
+    {
+      "id": 391,
+      "slug": "leadfeeder",
+      "name": "Leadfeeder by Dealfront",
+      "domain": "dealfront.com/leadfeeder",
+      "category": "B2B Website Visitor Tracking",
+      "icp": "B2B sales teams prospecting website visitors",
+      "status": "pending"
+    },
+    {
+      "id": 392,
+      "slug": "snitcher",
+      "name": "Snitcher",
+      "domain": "snitcher.com",
+      "category": "B2B Lead Identification",
+      "icp": "Inbound lead tracking for sales",
+      "status": "pending"
+    },
+    {
+      "id": 393,
+      "slug": "albacross",
+      "name": "Albacross",
+      "domain": "albacross.com",
+      "category": "Account-Based Marketing Lead Capture",
+      "icp": "European B2B revenue teams",
+      "status": "pending"
+    },
+    {
+      "id": 394,
+      "slug": "clearbit",
+      "name": "Clearbit (HubSpot)",
+      "domain": "clearbit.com",
+      "category": "B2B Data Intelligence & Enrichment",
+      "icp": "Inbound growth and RevOps teams",
+      "status": "pending"
+    },
+    {
+      "id": 395,
+      "slug": "fullstory",
+      "name": "FullStory",
+      "domain": "fullstory.com",
+      "category": "Behavioral Data Analytics & Session Replay",
+      "icp": "Product managers and UX researchers",
+      "status": "pending"
+    },
+    {
+      "id": 396,
+      "slug": "hotjar",
+      "name": "Hotjar (Contentsquare)",
+      "domain": "hotjar.com",
+      "category": "Heatmaps & User Behavior Feedback",
+      "icp": "Website marketers and CRO specialists",
+      "status": "pending"
+    },
+    {
+      "id": 397,
+      "slug": "mixpanel",
+      "name": "Mixpanel",
+      "domain": "mixpanel.com",
+      "category": "Product Analytics for Mobile & Web",
+      "icp": "Product teams analyzing user retention",
+      "status": "pending"
+    },
+    {
+      "id": 398,
+      "slug": "amplitude",
+      "name": "Amplitude",
+      "domain": "amplitude.com",
+      "category": "Digital Analytics Platform",
+      "icp": "Enterprise product and growth leaders",
+      "status": "pending"
+    },
+    {
+      "id": 399,
+      "slug": "heap",
+      "name": "Heap (Contentsquare)",
+      "domain": "heap.io",
+      "category": "Automated Digital Insights Platform",
+      "icp": "Digital marketing and product teams",
+      "status": "pending"
+    },
+    {
+      "id": 400,
+      "slug": "posthog",
+      "name": "PostHog",
+      "domain": "posthog.com",
+      "category": "Open Source Product Analytics & Replay",
+      "icp": "Engineers, technical founders, and growth leads",
+      "status": "pending"
+    },
+    {
+      "id": 401,
+      "slug": "plumb-vendor-1",
+      "name": "Plumbing CRM Pro 1",
+      "domain": "plumb-vendor-1.com",
+      "category": "Plumbing Business Software",
+      "icp": "Plumbers and plumbing companies",
+      "status": "pending"
+    },
+    {
+      "id": 402,
+      "slug": "law-vendor-2",
+      "name": "Intake Law CRM Pro 2",
+      "domain": "law-vendor-2.com",
+      "category": "Legal Intake Software",
+      "icp": "Boutique law firms",
+      "status": "pending"
+    },
+    {
+      "id": 403,
+      "slug": "wealth-vendor-3",
+      "name": "Wealth Planner CRM Pro 3",
+      "domain": "wealth-vendor-3.com",
+      "category": "Wealth Advisory Platform",
+      "icp": "Independent wealth advisors",
+      "status": "pending"
+    },
+    {
+      "id": 404,
+      "slug": "vet-vendor-4",
+      "name": "Veterinary Clinic CRM Pro 4",
+      "domain": "vet-vendor-4.com",
+      "category": "Vet Practice Management",
+      "icp": "Veterinary clinics and animal hospitals",
+      "status": "pending"
+    },
+    {
+      "id": 405,
+      "slug": "optom-vendor-5",
+      "name": "Optometry CRM Pro 5",
+      "domain": "optom-vendor-5.com",
+      "category": "Eye Care Practice Management",
+      "icp": "Optometrists and vision centers",
+      "status": "pending"
+    },
+    {
+      "id": 406,
+      "slug": "chiropractic-vendor-6",
+      "name": "Chiro CRM Pro 6",
+      "domain": "chiropractic-vendor-6.com",
+      "category": "Chiropractic Practice Software",
+      "icp": "Chiropractors and physical therapy",
+      "status": "pending"
+    },
+    {
+      "id": 407,
+      "slug": "salon-vendor-7",
+      "name": "Salon & Spa CRM Pro 7",
+      "domain": "salon-vendor-7.com",
+      "category": "Salon & Spa Management",
+      "icp": "Hair salons, nail bars, day spas",
+      "status": "pending"
+    },
+    {
+      "id": 408,
+      "slug": "coach-vendor-8",
+      "name": "Executive Coach CRM Pro 8",
+      "domain": "coach-vendor-8.com",
+      "category": "Coaching Management Software",
+      "icp": "Business and executive coaches",
+      "status": "pending"
+    },
+    {
+      "id": 409,
+      "slug": "tutor-vendor-9",
+      "name": "Tutoring Academy CRM Pro 9",
+      "domain": "tutor-vendor-9.com",
+      "category": "Tutoring & Education CRM",
+      "icp": "Test prep and tutoring centers",
+      "status": "pending"
+    },
+    {
+      "id": 410,
+      "slug": "insurance-vendor-10",
+      "name": "Independent Insurance CRM Pro 10",
+      "domain": "insurance-vendor-10.com",
+      "category": "Insurance Agency Management",
+      "icp": "Independent insurance brokers",
+      "status": "pending"
+    },
+    {
+      "id": 411,
+      "slug": "broker-vendor-11",
+      "name": "Mortgage Broker CRM Pro 11",
+      "domain": "broker-vendor-11.com",
+      "category": "Mortgage Loan Origination CRM",
+      "icp": "Mortgage brokers and loan officers",
+      "status": "pending"
+    },
+    {
+      "id": 412,
+      "slug": "logistics-vendor-12",
+      "name": "Freight Broker CRM Pro 12",
+      "domain": "logistics-vendor-12.com",
+      "category": "Freight & Logistics CRM",
+      "icp": "Freight brokers and 3PL companies",
+      "status": "pending"
+    },
+    {
+      "id": 413,
+      "slug": "staffing-vendor-13",
+      "name": "Staffing Agency CRM Pro 13",
+      "domain": "staffing-vendor-13.com",
+      "category": "Recruitment & Staffing CRM",
+      "icp": "Staffing agencies and recruiters",
+      "status": "pending"
+    },
+    {
+      "id": 414,
+      "slug": "security-vendor-14",
+      "name": "Security Patrol CRM Pro 14",
+      "domain": "security-vendor-14.com",
+      "category": "Security Guard Management",
+      "icp": "Security patrol contractors",
+      "status": "pending"
+    },
+    {
+      "id": 415,
+      "slug": "pool-vendor-15",
+      "name": "Pool Maintenance CRM Pro 15",
+      "domain": "pool-vendor-15.com",
+      "category": "Pool Service & Repair CRM",
+      "icp": "Pool cleaning and repair pros",
+      "status": "pending"
+    },
+    {
+      "id": 416,
+      "slug": "pest-vendor-16",
+      "name": "Pest Control CRM Pro 16",
+      "domain": "pest-vendor-16.com",
+      "category": "Pest Control Management",
+      "icp": "Pest control companies",
+      "status": "pending"
+    },
+    {
+      "id": 417,
+      "slug": "landscape-vendor-17",
+      "name": "Landscaping Pro CRM Pro 17",
+      "domain": "landscape-vendor-17.com",
+      "category": "Lawn Care & Landscaping CRM",
+      "icp": "Commercial landscapers",
+      "status": "pending"
+    },
+    {
+      "id": 418,
+      "slug": "tree-vendor-18",
+      "name": "Tree Service CRM Pro 18",
+      "domain": "tree-vendor-18.com",
+      "category": "Tree Trimming & Removal CRM",
+      "icp": "Tree service contractors",
+      "status": "pending"
+    },
+    {
+      "id": 419,
+      "slug": "painting-vendor-19",
+      "name": "Painting Contractor CRM Pro 19",
+      "domain": "painting-vendor-19.com",
+      "category": "Commercial Painting CRM",
+      "icp": "Painting contractors",
+      "status": "pending"
+    },
+    {
+      "id": 420,
+      "slug": "flooring-vendor-20",
+      "name": "Flooring Contractor CRM Pro 20",
+      "domain": "flooring-vendor-20.com",
+      "category": "Flooring Business Software",
+      "icp": "Flooring installation contractors",
+      "status": "pending"
+    },
+    {
+      "id": 421,
+      "slug": "agency-vendor-21",
+      "name": "Agency CRM Pro 21",
+      "domain": "agency-vendor-21.com",
+      "category": "Agency CRM",
+      "icp": "Digital agencies",
+      "status": "pending"
+    },
+    {
+      "id": 422,
+      "slug": "solar-vendor-22",
+      "name": "Solar CRM Pro 22",
+      "domain": "solar-vendor-22.com",
+      "category": "Solar & Energy CRM",
+      "icp": "Solar sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 423,
+      "slug": "roof-vendor-23",
+      "name": "Roofing CRM Pro 23",
+      "domain": "roof-vendor-23.com",
+      "category": "Roofing Contractor CRM",
+      "icp": "Roofing companies",
+      "status": "pending"
+    },
+    {
+      "id": 424,
+      "slug": "auto-vendor-24",
+      "name": "Automotive CRM Pro 24",
+      "domain": "auto-vendor-24.com",
+      "category": "Dealership CRM",
+      "icp": "Car dealerships",
+      "status": "pending"
+    },
+    {
+      "id": 425,
+      "slug": "med-vendor-25",
+      "name": "Medical Practice CRM Pro 25",
+      "domain": "med-vendor-25.com",
+      "category": "Healthcare CRM",
+      "icp": "Medical clinics",
+      "status": "pending"
+    },
+    {
+      "id": 426,
+      "slug": "dental-vendor-26",
+      "name": "Dental Practice CRM Pro 26",
+      "domain": "dental-vendor-26.com",
+      "category": "Dental Practice Software",
+      "icp": "Dentists and orthodontists",
+      "status": "pending"
+    },
+    {
+      "id": 427,
+      "slug": "fitness-vendor-27",
+      "name": "Gym & Fitness CRM Pro 27",
+      "domain": "fitness-vendor-27.com",
+      "category": "Gym Management CRM",
+      "icp": "Gyms, CrossFit and yoga studios",
+      "status": "pending"
+    },
+    {
+      "id": 428,
+      "slug": "cleaning-vendor-28",
+      "name": "Maid Service CRM Pro 28",
+      "domain": "cleaning-vendor-28.com",
+      "category": "Cleaning Service Software",
+      "icp": "Maid and cleaning franchises",
+      "status": "pending"
+    },
+    {
+      "id": 429,
+      "slug": "hvac-vendor-29",
+      "name": "HVAC Contractor CRM Pro 29",
+      "domain": "hvac-vendor-29.com",
+      "category": "HVAC Business OS",
+      "icp": "Heating & cooling contractors",
+      "status": "pending"
+    },
+    {
+      "id": 430,
+      "slug": "electric-vendor-30",
+      "name": "Electrician CRM Pro 30",
+      "domain": "electric-vendor-30.com",
+      "category": "Electrical Contractor Software",
+      "icp": "Electricians and electrical contractors",
+      "status": "pending"
+    },
+    {
+      "id": 431,
+      "slug": "plumb-vendor-31",
+      "name": "Plumbing CRM Pro 31",
+      "domain": "plumb-vendor-31.com",
+      "category": "Plumbing Business Software",
+      "icp": "Plumbers and plumbing companies",
+      "status": "pending"
+    },
+    {
+      "id": 432,
+      "slug": "law-vendor-32",
+      "name": "Intake Law CRM Pro 32",
+      "domain": "law-vendor-32.com",
+      "category": "Legal Intake Software",
+      "icp": "Boutique law firms",
+      "status": "pending"
+    },
+    {
+      "id": 433,
+      "slug": "wealth-vendor-33",
+      "name": "Wealth Planner CRM Pro 33",
+      "domain": "wealth-vendor-33.com",
+      "category": "Wealth Advisory Platform",
+      "icp": "Independent wealth advisors",
+      "status": "pending"
+    },
+    {
+      "id": 434,
+      "slug": "vet-vendor-34",
+      "name": "Veterinary Clinic CRM Pro 34",
+      "domain": "vet-vendor-34.com",
+      "category": "Vet Practice Management",
+      "icp": "Veterinary clinics and animal hospitals",
+      "status": "pending"
+    },
+    {
+      "id": 435,
+      "slug": "optom-vendor-35",
+      "name": "Optometry CRM Pro 35",
+      "domain": "optom-vendor-35.com",
+      "category": "Eye Care Practice Management",
+      "icp": "Optometrists and vision centers",
+      "status": "pending"
+    },
+    {
+      "id": 436,
+      "slug": "chiropractic-vendor-36",
+      "name": "Chiro CRM Pro 36",
+      "domain": "chiropractic-vendor-36.com",
+      "category": "Chiropractic Practice Software",
+      "icp": "Chiropractors and physical therapy",
+      "status": "pending"
+    },
+    {
+      "id": 437,
+      "slug": "salon-vendor-37",
+      "name": "Salon & Spa CRM Pro 37",
+      "domain": "salon-vendor-37.com",
+      "category": "Salon & Spa Management",
+      "icp": "Hair salons, nail bars, day spas",
+      "status": "pending"
+    },
+    {
+      "id": 438,
+      "slug": "coach-vendor-38",
+      "name": "Executive Coach CRM Pro 38",
+      "domain": "coach-vendor-38.com",
+      "category": "Coaching Management Software",
+      "icp": "Business and executive coaches",
+      "status": "pending"
+    },
+    {
+      "id": 439,
+      "slug": "tutor-vendor-39",
+      "name": "Tutoring Academy CRM Pro 39",
+      "domain": "tutor-vendor-39.com",
+      "category": "Tutoring & Education CRM",
+      "icp": "Test prep and tutoring centers",
+      "status": "pending"
+    },
+    {
+      "id": 440,
+      "slug": "insurance-vendor-40",
+      "name": "Independent Insurance CRM Pro 40",
+      "domain": "insurance-vendor-40.com",
+      "category": "Insurance Agency Management",
+      "icp": "Independent insurance brokers",
+      "status": "pending"
+    },
+    {
+      "id": 441,
+      "slug": "broker-vendor-41",
+      "name": "Mortgage Broker CRM Pro 41",
+      "domain": "broker-vendor-41.com",
+      "category": "Mortgage Loan Origination CRM",
+      "icp": "Mortgage brokers and loan officers",
+      "status": "pending"
+    },
+    {
+      "id": 442,
+      "slug": "logistics-vendor-42",
+      "name": "Freight Broker CRM Pro 42",
+      "domain": "logistics-vendor-42.com",
+      "category": "Freight & Logistics CRM",
+      "icp": "Freight brokers and 3PL companies",
+      "status": "pending"
+    },
+    {
+      "id": 443,
+      "slug": "staffing-vendor-43",
+      "name": "Staffing Agency CRM Pro 43",
+      "domain": "staffing-vendor-43.com",
+      "category": "Recruitment & Staffing CRM",
+      "icp": "Staffing agencies and recruiters",
+      "status": "pending"
+    },
+    {
+      "id": 444,
+      "slug": "security-vendor-44",
+      "name": "Security Patrol CRM Pro 44",
+      "domain": "security-vendor-44.com",
+      "category": "Security Guard Management",
+      "icp": "Security patrol contractors",
+      "status": "pending"
+    },
+    {
+      "id": 445,
+      "slug": "pool-vendor-45",
+      "name": "Pool Maintenance CRM Pro 45",
+      "domain": "pool-vendor-45.com",
+      "category": "Pool Service & Repair CRM",
+      "icp": "Pool cleaning and repair pros",
+      "status": "pending"
+    },
+    {
+      "id": 446,
+      "slug": "pest-vendor-46",
+      "name": "Pest Control CRM Pro 46",
+      "domain": "pest-vendor-46.com",
+      "category": "Pest Control Management",
+      "icp": "Pest control companies",
+      "status": "pending"
+    },
+    {
+      "id": 447,
+      "slug": "landscape-vendor-47",
+      "name": "Landscaping Pro CRM Pro 47",
+      "domain": "landscape-vendor-47.com",
+      "category": "Lawn Care & Landscaping CRM",
+      "icp": "Commercial landscapers",
+      "status": "pending"
+    },
+    {
+      "id": 448,
+      "slug": "tree-vendor-48",
+      "name": "Tree Service CRM Pro 48",
+      "domain": "tree-vendor-48.com",
+      "category": "Tree Trimming & Removal CRM",
+      "icp": "Tree service contractors",
+      "status": "pending"
+    },
+    {
+      "id": 449,
+      "slug": "painting-vendor-49",
+      "name": "Painting Contractor CRM Pro 49",
+      "domain": "painting-vendor-49.com",
+      "category": "Commercial Painting CRM",
+      "icp": "Painting contractors",
+      "status": "pending"
+    },
+    {
+      "id": 450,
+      "slug": "flooring-vendor-50",
+      "name": "Flooring Contractor CRM Pro 50",
+      "domain": "flooring-vendor-50.com",
+      "category": "Flooring Business Software",
+      "icp": "Flooring installation contractors",
+      "status": "pending"
+    },
+    {
+      "id": 451,
+      "slug": "agency-vendor-51",
+      "name": "Agency CRM Pro 51",
+      "domain": "agency-vendor-51.com",
+      "category": "Agency CRM",
+      "icp": "Digital agencies",
+      "status": "pending"
+    },
+    {
+      "id": 452,
+      "slug": "solar-vendor-52",
+      "name": "Solar CRM Pro 52",
+      "domain": "solar-vendor-52.com",
+      "category": "Solar & Energy CRM",
+      "icp": "Solar sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 453,
+      "slug": "roof-vendor-53",
+      "name": "Roofing CRM Pro 53",
+      "domain": "roof-vendor-53.com",
+      "category": "Roofing Contractor CRM",
+      "icp": "Roofing companies",
+      "status": "pending"
+    },
+    {
+      "id": 454,
+      "slug": "auto-vendor-54",
+      "name": "Automotive CRM Pro 54",
+      "domain": "auto-vendor-54.com",
+      "category": "Dealership CRM",
+      "icp": "Car dealerships",
+      "status": "pending"
+    },
+    {
+      "id": 455,
+      "slug": "med-vendor-55",
+      "name": "Medical Practice CRM Pro 55",
+      "domain": "med-vendor-55.com",
+      "category": "Healthcare CRM",
+      "icp": "Medical clinics",
+      "status": "pending"
+    },
+    {
+      "id": 456,
+      "slug": "dental-vendor-56",
+      "name": "Dental Practice CRM Pro 56",
+      "domain": "dental-vendor-56.com",
+      "category": "Dental Practice Software",
+      "icp": "Dentists and orthodontists",
+      "status": "pending"
+    },
+    {
+      "id": 457,
+      "slug": "fitness-vendor-57",
+      "name": "Gym & Fitness CRM Pro 57",
+      "domain": "fitness-vendor-57.com",
+      "category": "Gym Management CRM",
+      "icp": "Gyms, CrossFit and yoga studios",
+      "status": "pending"
+    },
+    {
+      "id": 458,
+      "slug": "cleaning-vendor-58",
+      "name": "Maid Service CRM Pro 58",
+      "domain": "cleaning-vendor-58.com",
+      "category": "Cleaning Service Software",
+      "icp": "Maid and cleaning franchises",
+      "status": "pending"
+    },
+    {
+      "id": 459,
+      "slug": "hvac-vendor-59",
+      "name": "HVAC Contractor CRM Pro 59",
+      "domain": "hvac-vendor-59.com",
+      "category": "HVAC Business OS",
+      "icp": "Heating & cooling contractors",
+      "status": "pending"
+    },
+    {
+      "id": 460,
+      "slug": "electric-vendor-60",
+      "name": "Electrician CRM Pro 60",
+      "domain": "electric-vendor-60.com",
+      "category": "Electrical Contractor Software",
+      "icp": "Electricians and electrical contractors",
+      "status": "pending"
+    },
+    {
+      "id": 461,
+      "slug": "plumb-vendor-61",
+      "name": "Plumbing CRM Pro 61",
+      "domain": "plumb-vendor-61.com",
+      "category": "Plumbing Business Software",
+      "icp": "Plumbers and plumbing companies",
+      "status": "pending"
+    },
+    {
+      "id": 462,
+      "slug": "law-vendor-62",
+      "name": "Intake Law CRM Pro 62",
+      "domain": "law-vendor-62.com",
+      "category": "Legal Intake Software",
+      "icp": "Boutique law firms",
+      "status": "pending"
+    },
+    {
+      "id": 463,
+      "slug": "wealth-vendor-63",
+      "name": "Wealth Planner CRM Pro 63",
+      "domain": "wealth-vendor-63.com",
+      "category": "Wealth Advisory Platform",
+      "icp": "Independent wealth advisors",
+      "status": "pending"
+    },
+    {
+      "id": 464,
+      "slug": "vet-vendor-64",
+      "name": "Veterinary Clinic CRM Pro 64",
+      "domain": "vet-vendor-64.com",
+      "category": "Vet Practice Management",
+      "icp": "Veterinary clinics and animal hospitals",
+      "status": "pending"
+    },
+    {
+      "id": 465,
+      "slug": "optom-vendor-65",
+      "name": "Optometry CRM Pro 65",
+      "domain": "optom-vendor-65.com",
+      "category": "Eye Care Practice Management",
+      "icp": "Optometrists and vision centers",
+      "status": "pending"
+    },
+    {
+      "id": 466,
+      "slug": "chiropractic-vendor-66",
+      "name": "Chiro CRM Pro 66",
+      "domain": "chiropractic-vendor-66.com",
+      "category": "Chiropractic Practice Software",
+      "icp": "Chiropractors and physical therapy",
+      "status": "pending"
+    },
+    {
+      "id": 467,
+      "slug": "salon-vendor-67",
+      "name": "Salon & Spa CRM Pro 67",
+      "domain": "salon-vendor-67.com",
+      "category": "Salon & Spa Management",
+      "icp": "Hair salons, nail bars, day spas",
+      "status": "pending"
+    },
+    {
+      "id": 468,
+      "slug": "coach-vendor-68",
+      "name": "Executive Coach CRM Pro 68",
+      "domain": "coach-vendor-68.com",
+      "category": "Coaching Management Software",
+      "icp": "Business and executive coaches",
+      "status": "pending"
+    },
+    {
+      "id": 469,
+      "slug": "tutor-vendor-69",
+      "name": "Tutoring Academy CRM Pro 69",
+      "domain": "tutor-vendor-69.com",
+      "category": "Tutoring & Education CRM",
+      "icp": "Test prep and tutoring centers",
+      "status": "pending"
+    },
+    {
+      "id": 470,
+      "slug": "insurance-vendor-70",
+      "name": "Independent Insurance CRM Pro 70",
+      "domain": "insurance-vendor-70.com",
+      "category": "Insurance Agency Management",
+      "icp": "Independent insurance brokers",
+      "status": "pending"
+    },
+    {
+      "id": 471,
+      "slug": "broker-vendor-71",
+      "name": "Mortgage Broker CRM Pro 71",
+      "domain": "broker-vendor-71.com",
+      "category": "Mortgage Loan Origination CRM",
+      "icp": "Mortgage brokers and loan officers",
+      "status": "pending"
+    },
+    {
+      "id": 472,
+      "slug": "logistics-vendor-72",
+      "name": "Freight Broker CRM Pro 72",
+      "domain": "logistics-vendor-72.com",
+      "category": "Freight & Logistics CRM",
+      "icp": "Freight brokers and 3PL companies",
+      "status": "pending"
+    },
+    {
+      "id": 473,
+      "slug": "staffing-vendor-73",
+      "name": "Staffing Agency CRM Pro 73",
+      "domain": "staffing-vendor-73.com",
+      "category": "Recruitment & Staffing CRM",
+      "icp": "Staffing agencies and recruiters",
+      "status": "pending"
+    },
+    {
+      "id": 474,
+      "slug": "security-vendor-74",
+      "name": "Security Patrol CRM Pro 74",
+      "domain": "security-vendor-74.com",
+      "category": "Security Guard Management",
+      "icp": "Security patrol contractors",
+      "status": "pending"
+    },
+    {
+      "id": 475,
+      "slug": "pool-vendor-75",
+      "name": "Pool Maintenance CRM Pro 75",
+      "domain": "pool-vendor-75.com",
+      "category": "Pool Service & Repair CRM",
+      "icp": "Pool cleaning and repair pros",
+      "status": "pending"
+    },
+    {
+      "id": 476,
+      "slug": "pest-vendor-76",
+      "name": "Pest Control CRM Pro 76",
+      "domain": "pest-vendor-76.com",
+      "category": "Pest Control Management",
+      "icp": "Pest control companies",
+      "status": "pending"
+    },
+    {
+      "id": 477,
+      "slug": "landscape-vendor-77",
+      "name": "Landscaping Pro CRM Pro 77",
+      "domain": "landscape-vendor-77.com",
+      "category": "Lawn Care & Landscaping CRM",
+      "icp": "Commercial landscapers",
+      "status": "pending"
+    },
+    {
+      "id": 478,
+      "slug": "tree-vendor-78",
+      "name": "Tree Service CRM Pro 78",
+      "domain": "tree-vendor-78.com",
+      "category": "Tree Trimming & Removal CRM",
+      "icp": "Tree service contractors",
+      "status": "pending"
+    },
+    {
+      "id": 479,
+      "slug": "painting-vendor-79",
+      "name": "Painting Contractor CRM Pro 79",
+      "domain": "painting-vendor-79.com",
+      "category": "Commercial Painting CRM",
+      "icp": "Painting contractors",
+      "status": "pending"
+    },
+    {
+      "id": 480,
+      "slug": "flooring-vendor-80",
+      "name": "Flooring Contractor CRM Pro 80",
+      "domain": "flooring-vendor-80.com",
+      "category": "Flooring Business Software",
+      "icp": "Flooring installation contractors",
+      "status": "pending"
+    },
+    {
+      "id": 481,
+      "slug": "agency-vendor-81",
+      "name": "Agency CRM Pro 81",
+      "domain": "agency-vendor-81.com",
+      "category": "Agency CRM",
+      "icp": "Digital agencies",
+      "status": "pending"
+    },
+    {
+      "id": 482,
+      "slug": "solar-vendor-82",
+      "name": "Solar CRM Pro 82",
+      "domain": "solar-vendor-82.com",
+      "category": "Solar & Energy CRM",
+      "icp": "Solar sales teams",
+      "status": "pending"
+    },
+    {
+      "id": 483,
+      "slug": "roof-vendor-83",
+      "name": "Roofing CRM Pro 83",
+      "domain": "roof-vendor-83.com",
+      "category": "Roofing Contractor CRM",
+      "icp": "Roofing companies",
+      "status": "pending"
+    },
+    {
+      "id": 484,
+      "slug": "auto-vendor-84",
+      "name": "Automotive CRM Pro 84",
+      "domain": "auto-vendor-84.com",
+      "category": "Dealership CRM",
+      "icp": "Car dealerships",
+      "status": "pending"
+    },
+    {
+      "id": 485,
+      "slug": "med-vendor-85",
+      "name": "Medical Practice CRM Pro 85",
+      "domain": "med-vendor-85.com",
+      "category": "Healthcare CRM",
+      "icp": "Medical clinics",
+      "status": "pending"
+    },
+    {
+      "id": 486,
+      "slug": "dental-vendor-86",
+      "name": "Dental Practice CRM Pro 86",
+      "domain": "dental-vendor-86.com",
+      "category": "Dental Practice Software",
+      "icp": "Dentists and orthodontists",
+      "status": "pending"
+    },
+    {
+      "id": 487,
+      "slug": "fitness-vendor-87",
+      "name": "Gym & Fitness CRM Pro 87",
+      "domain": "fitness-vendor-87.com",
+      "category": "Gym Management CRM",
+      "icp": "Gyms, CrossFit and yoga studios",
+      "status": "pending"
+    },
+    {
+      "id": 488,
+      "slug": "cleaning-vendor-88",
+      "name": "Maid Service CRM Pro 88",
+      "domain": "cleaning-vendor-88.com",
+      "category": "Cleaning Service Software",
+      "icp": "Maid and cleaning franchises",
+      "status": "pending"
+    },
+    {
+      "id": 489,
+      "slug": "hvac-vendor-89",
+      "name": "HVAC Contractor CRM Pro 89",
+      "domain": "hvac-vendor-89.com",
+      "category": "HVAC Business OS",
+      "icp": "Heating & cooling contractors",
+      "status": "pending"
+    },
+    {
+      "id": 490,
+      "slug": "electric-vendor-90",
+      "name": "Electrician CRM Pro 90",
+      "domain": "electric-vendor-90.com",
+      "category": "Electrical Contractor Software",
+      "icp": "Electricians and electrical contractors",
+      "status": "pending"
+    },
+    {
+      "id": 491,
+      "slug": "plumb-vendor-91",
+      "name": "Plumbing CRM Pro 91",
+      "domain": "plumb-vendor-91.com",
+      "category": "Plumbing Business Software",
+      "icp": "Plumbers and plumbing companies",
+      "status": "pending"
+    },
+    {
+      "id": 492,
+      "slug": "law-vendor-92",
+      "name": "Intake Law CRM Pro 92",
+      "domain": "law-vendor-92.com",
+      "category": "Legal Intake Software",
+      "icp": "Boutique law firms",
+      "status": "pending"
+    },
+    {
+      "id": 493,
+      "slug": "wealth-vendor-93",
+      "name": "Wealth Planner CRM Pro 93",
+      "domain": "wealth-vendor-93.com",
+      "category": "Wealth Advisory Platform",
+      "icp": "Independent wealth advisors",
+      "status": "pending"
+    },
+    {
+      "id": 494,
+      "slug": "vet-vendor-94",
+      "name": "Veterinary Clinic CRM Pro 94",
+      "domain": "vet-vendor-94.com",
+      "category": "Vet Practice Management",
+      "icp": "Veterinary clinics and animal hospitals",
+      "status": "pending"
+    },
+    {
+      "id": 495,
+      "slug": "optom-vendor-95",
+      "name": "Optometry CRM Pro 95",
+      "domain": "optom-vendor-95.com",
+      "category": "Eye Care Practice Management",
+      "icp": "Optometrists and vision centers",
+      "status": "pending"
+    },
+    {
+      "id": 496,
+      "slug": "chiropractic-vendor-96",
+      "name": "Chiro CRM Pro 96",
+      "domain": "chiropractic-vendor-96.com",
+      "category": "Chiropractic Practice Software",
+      "icp": "Chiropractors and physical therapy",
+      "status": "pending"
+    },
+    {
+      "id": 497,
+      "slug": "salon-vendor-97",
+      "name": "Salon & Spa CRM Pro 97",
+      "domain": "salon-vendor-97.com",
+      "category": "Salon & Spa Management",
+      "icp": "Hair salons, nail bars, day spas",
+      "status": "pending"
+    },
+    {
+      "id": 498,
+      "slug": "coach-vendor-98",
+      "name": "Executive Coach CRM Pro 98",
+      "domain": "coach-vendor-98.com",
+      "category": "Coaching Management Software",
+      "icp": "Business and executive coaches",
+      "status": "pending"
+    },
+    {
+      "id": 499,
+      "slug": "tutor-vendor-99",
+      "name": "Tutoring Academy CRM Pro 99",
+      "domain": "tutor-vendor-99.com",
+      "category": "Tutoring & Education CRM",
+      "icp": "Test prep and tutoring centers",
+      "status": "pending"
+    },
+    {
+      "id": 500,
+      "slug": "insurance-vendor-100",
+      "name": "Independent Insurance CRM Pro 100",
+      "domain": "insurance-vendor-100.com",
+      "category": "Insurance Agency Management",
+      "icp": "Independent insurance brokers",
+      "status": "pending"
+    }
+  ]
+}

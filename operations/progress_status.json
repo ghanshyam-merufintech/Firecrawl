@@ -1,0 +1,11 @@
+{
+  "active_status": "RUNNING",
+  "processed_count": 26,
+  "total_competitors": 500,
+  "current_slug": "salesflare",
+  "current_name": "Salesflare",
+  "time_remaining": "4:56:14",
+  "api_calls_total": 33,
+  "api_failures": 0,
+  "last_heartbeat": "2026-10-29T15:03:26.688253+00:00"
+}

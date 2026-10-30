@@ -1,0 +1,1 @@
+import{s}from"./framework-CazThxeW.js";async function f(t,r,e=!1){const{data:a,error:n}=await s.from("tenant_feature_flags").select("is_enabled").eq("tenant_id",t).eq("feature_key",r).maybeSingle();return n||!a?e:!!a.is_enabled}export{f as g};

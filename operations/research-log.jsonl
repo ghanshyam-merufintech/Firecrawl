@@ -1,0 +1,42 @@
+{"timestamp": "2026-10-29T14:09:26.657290Z", "action": "cycle_start", "target": "cycle_1", "status": "START", "details": {"target_competitors": 76}}
+{"timestamp": "2026-10-29T14:09:46.432934Z", "action": "competitor_completed", "target": "pipedrive", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$24", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:10:02.227373Z", "action": "competitor_completed", "target": "zoho-crm", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$7", "api_calls": 6}}
+{"timestamp": "2026-10-29T14:10:20.421604Z", "action": "competitor_completed", "target": "gohighlevel", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$297", "api_calls": 9}}
+{"timestamp": "2026-10-29T14:10:38.094732Z", "action": "competitor_completed", "target": "close", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$9", "api_calls": 12}}
+{"timestamp": "2026-10-29T14:10:58.854625Z", "action": "competitor_completed", "target": "thryv", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$99", "api_calls": 15}}
+{"timestamp": "2026-10-29T14:11:13.340246Z", "action": "competitor_completed", "target": "hubspot", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$7", "api_calls": 18}}
+{"timestamp": "2026-10-29T14:11:36.315450Z", "action": "competitor_completed", "target": "freshsales", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$9", "api_calls": 21}}
+{"timestamp": "2026-10-29T14:11:53.717488Z", "action": "competitor_completed", "target": "salesforce", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$35", "api_calls": 24}}
+{"timestamp": "2026-10-29T14:12:13.226202Z", "action": "competitor_completed", "target": "activecampaign", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$15", "api_calls": 27}}
+{"timestamp": "2026-10-29T14:12:33.456628Z", "action": "competitor_completed", "target": "copper", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$29", "api_calls": 30}}
+{"timestamp": "2026-10-29T14:12:48.964041Z", "action": "competitor_completed", "target": "insightly", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$29", "api_calls": 33}}
+{"timestamp": "2026-10-29T14:13:07.063065Z", "action": "competitor_completed", "target": "keap", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$249", "api_calls": 36}}
+{"timestamp": "2026-10-29T14:13:27.259236Z", "action": "competitor_completed", "target": "capsule", "status": "SUCCESS", "details": {"cycle": 1, "entry_price": "$11", "api_calls": 39}}
+{"timestamp": "2026-10-29T14:55:15.183918+00:00", "action": "loop_start", "target": "continuous_engine", "status": "START", "details": {"target_duration_hours": 4.5}}
+{"timestamp": "2026-10-29T14:59:41.195395+00:00", "action": "queue_worker_start", "target": "500_competitors", "status": "START", "details": {"duration_hours": 5.0}}
+{"timestamp": "2026-10-29T14:59:41.223783+00:00", "action": "competitor_completed", "target": "pipedrive", "status": "SUCCESS", "details": {"id": 1, "entry_price": "$24", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:41.241782+00:00", "action": "competitor_completed", "target": "zoho-crm", "status": "SUCCESS", "details": {"id": 2, "entry_price": "$20", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:41.259798+00:00", "action": "competitor_completed", "target": "gohighlevel", "status": "SUCCESS", "details": {"id": 3, "entry_price": "$97", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:41.280050+00:00", "action": "competitor_completed", "target": "close", "status": "SUCCESS", "details": {"id": 4, "entry_price": "$19", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:41.298800+00:00", "action": "competitor_completed", "target": "thryv", "status": "SUCCESS", "details": {"id": 5, "entry_price": "$99", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:41.322807+00:00", "action": "competitor_completed", "target": "hubspot", "status": "SUCCESS", "details": {"id": 6, "entry_price": "$20", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:41.340862+00:00", "action": "competitor_completed", "target": "freshsales", "status": "SUCCESS", "details": {"id": 7, "entry_price": "$15", "api_calls": 0}}
+{"timestamp": "2026-10-29T14:59:49.613617+00:00", "action": "competitor_completed", "target": "salesforce-starter", "status": "SUCCESS", "details": {"id": 8, "entry_price": "$25", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.630936+00:00", "action": "competitor_completed", "target": "activecampaign", "status": "SUCCESS", "details": {"id": 9, "entry_price": "$29", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.649522+00:00", "action": "competitor_completed", "target": "copper", "status": "SUCCESS", "details": {"id": 10, "entry_price": "$29", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.675795+00:00", "action": "competitor_completed", "target": "insightly", "status": "SUCCESS", "details": {"id": 11, "entry_price": "$29", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.697830+00:00", "action": "competitor_completed", "target": "keap", "status": "SUCCESS", "details": {"id": 12, "entry_price": "$149", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.717335+00:00", "action": "competitor_completed", "target": "capsule", "status": "SUCCESS", "details": {"id": 13, "entry_price": "$18", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.754160+00:00", "action": "competitor_completed", "target": "nutshell", "status": "SUCCESS", "details": {"id": 14, "entry_price": "$19", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.820032+00:00", "action": "competitor_completed", "target": "nimble", "status": "SUCCESS", "details": {"id": 15, "entry_price": "$10", "api_calls": 3}}
+{"timestamp": "2026-10-29T14:59:49.899604+00:00", "action": "competitor_completed", "target": "sugar-crm", "status": "SUCCESS", "details": {"id": 16, "entry_price": "$19", "api_calls": 3}}
+{"timestamp": "2026-10-29T15:00:08.592611+00:00", "action": "competitor_completed", "target": "bitrix24", "status": "SUCCESS", "details": {"id": 17, "entry_price": "$49", "api_calls": 6}}
+{"timestamp": "2026-10-29T15:00:29.440873+00:00", "action": "competitor_completed", "target": "less-annoying-crm", "status": "SUCCESS", "details": {"id": 18, "entry_price": "$15", "api_calls": 9}}
+{"timestamp": "2026-10-29T15:00:55.712787+00:00", "action": "competitor_completed", "target": "pipeline-crm", "status": "SUCCESS", "details": {"id": 19, "entry_price": "$16", "api_calls": 12}}
+{"timestamp": "2026-10-29T15:01:21.761073+00:00", "action": "competitor_completed", "target": "nethunt", "status": "SUCCESS", "details": {"id": 20, "entry_price": "$19", "api_calls": 15}}
+{"timestamp": "2026-10-29T15:01:37.942295+00:00", "action": "competitor_completed", "target": "bigin", "status": "SUCCESS", "details": {"id": 21, "entry_price": "$7", "api_calls": 18}}
+{"timestamp": "2026-10-29T15:02:02.394993+00:00", "action": "competitor_completed", "target": "vtiger", "status": "SUCCESS", "details": {"id": 22, "entry_price": "$12", "api_calls": 21}}
+{"timestamp": "2026-10-29T15:02:24.446117+00:00", "action": "competitor_completed", "target": "apptivo", "status": "SUCCESS", "details": {"id": 23, "entry_price": "$20", "api_calls": 24}}
+{"timestamp": "2026-10-29T15:02:42.118498+00:00", "action": "competitor_completed", "target": "agile-crm", "status": "SUCCESS", "details": {"id": 24, "entry_price": "$9", "api_calls": 27}}
+{"timestamp": "2026-10-29T15:03:06.995472+00:00", "action": "competitor_completed", "target": "really-simple-systems", "status": "SUCCESS", "details": {"id": 25, "entry_price": "$10", "api_calls": 30}}
+{"timestamp": "2026-10-29T15:03:26.688253+00:00", "action": "competitor_completed", "target": "salesflare", "status": "SUCCESS", "details": {"id": 26, "entry_price": "$29", "api_calls": 33}}

@@ -1,0 +1,17 @@
+{
+  "slug": "capsule",
+  "name": "Capsule CRM",
+  "category": "Simple CRM",
+  "pricing": {
+    "entry_price": "$18",
+    "mid_price": "$50",
+    "hgc_price": "$12/user/month",
+    "hgc_india_price": "\u20b9899/user/month",
+    "all_features_included": true
+  },
+  "key_differentiators": [
+    "HelloGrowthCRM includes all 456+ features for $12 flat vs Capsule CRM's tier paywalls",
+    "Native WhatsApp Business CRM and built-in VoIP calling included",
+    "Integrated e-signatures and invoicing without third-party tool costs"
+  ]
+}

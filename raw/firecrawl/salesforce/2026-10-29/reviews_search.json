@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": [
+    {
+      "url": "https://www.reddit.com/r/salesforce/comments/1t97jq2/salesforce_alternatives/",
+      "title": "Salesforce Alternatives?",
+      "description": "I have a team of executive leaders who read articles daily about companies using AI to spin up their own CRM that isn\u2019t Salesforce. Like many, the many ...",
+      "position": 1
+    },
+    {
+      "url": "https://www.reddit.com/r/salesforce/comments/1ghov2x/everyone_i_have_worked_with_has_had_unanimously/",
+      "title": "Everyone I have worked with has had unanimously terrible ...",
+      "description": "Everyone I have worked with has had unanimously terrible experiences with Salesforce, issues Salesforce long-term CRM effectiveness \u2026 usually ...",
+      "position": 2
+    }
+  ],
+  "id": "01a18800-ae4c-722b-842f-02deabc74b6a",
+  "warning": "No content found in search results"
+}

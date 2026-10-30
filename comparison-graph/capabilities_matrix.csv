@@ -1,0 +1,40 @@
+slug,name,contact_deal_pipeline,ai_email_writer,ai_call_summary,ai_agents,whatsapp_integration,two_way_sms,built_in_voip,workflow_automation,field_sales_gps,invoicing_payments,e_signatures,mcp_server,api_webhooks,native_integrations
+pipedrive,Pipedrive,Yes,Yes,Yes,Yes,No / Add-on,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+zoho-crm,Zoho CRM,Yes,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+gohighlevel,GoHighLevel,Yes,No / Add-on,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+close,Close,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+thryv,Thryv,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+hubspot,HubSpot,Yes,Yes,Yes,Yes,Yes,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+freshsales,Freshsales,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+salesforce,Salesforce Starter,Yes,No / Add-on,Yes,Yes,No / Add-on,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+activecampaign,ActiveCampaign,Yes,Yes,No / Add-on,No / Add-on,Yes,Yes,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,Yes,Yes,50+
+copper,Copper CRM,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+insightly,Insightly,Yes,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+keap,Keap,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,50+
+capsule,Capsule CRM,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+pipedrive,Pipedrive,Yes,Yes,Yes,Yes,No / Add-on,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+zoho-crm,Zoho CRM,Yes,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+gohighlevel,GoHighLevel,Yes,No / Add-on,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+close,Close,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+thryv,Thryv,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+hubspot,HubSpot,Yes,Yes,Yes,Yes,Yes,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+freshsales,Freshsales,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+salesforce-starter,Salesforce Starter,Yes,No / Add-on,Yes,Yes,No / Add-on,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+activecampaign,ActiveCampaign,Yes,Yes,No / Add-on,No / Add-on,Yes,Yes,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,Yes,Yes,50+
+copper,Copper CRM,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+insightly,Insightly,Yes,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+keap,Keap,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,50+
+capsule,Capsule CRM,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+nutshell,Nutshell,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+nimble,Nimble,Yes,Yes,No / Add-on,Yes,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,50+
+sugar-crm,SugarCRM,Yes,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,50+
+bitrix24,Bitrix24,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+less-annoying-crm,Less Annoying CRM,Yes,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+pipeline-crm,Pipeline CRM,Yes,Yes,Yes,No / Add-on,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+nethunt,NetHunt CRM,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+bigin,Bigin by Zoho,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,Yes,50+
+vtiger,Vtiger CRM,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,50+
+apptivo,Apptivo,Yes,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50+
+agile-crm,Agile CRM,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,Yes,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,Yes,50+
+really-simple-systems,Really Simple Systems,Yes,Yes,No / Add-on,Yes,No / Add-on,Yes,Yes,Yes,Yes,Yes,Yes,No / Add-on,Yes,50+
+salesflare,Salesflare,Yes,Yes,No / Add-on,Yes,No / Add-on,No / Add-on,No / Add-on,Yes,No / Add-on,Yes,Yes,No / Add-on,Yes,50+

@@ -1,0 +1,18 @@
+Feature Pillar,HelloGrowth CRM ($12),Salesforce Sales Cloud,HubSpot Sales Hub,Zoho CRM,Freshsales,Pipedrive,Close CRM,GoHighLevel,Bitrix24,Attio CRM,LeadSquared
+Visual Deal Pipelines,Yes (Unlimited),Yes ($100+ Pro),Yes ($100+ Pro),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Workflow Automation,Yes (Unlimited),Yes (Tier Gated),Locked to $100 Pro,Capped Rules,Tier Gated,Locked to $59 Pro,Yes ($49+),Yes,Yes,Credit Metered,Locked to Super
+Native WhatsApp Cloud API,Yes (2-Way Built-in),3rd Party Marketplace,3rd Party Marketplace,3rd Party / Add-on,Add-on,3rd Party Only,3rd Party Only,Twilio Markup,Native (Complex),No,Yes (Add-on)
+Built-in WebRTC VoIP Dialer,Yes (Included),Add-on ($$$),Paid Call Pack,Zoho Voice Add-on,Freshcaller Mins,No (3rd Party),Yes (Core Focus),Twilio Markup,Yes,No,Cloud Telephony Add-on
+2-Way SMS Text Messaging,Yes (Included),Add-on Pack,Locked to Pro,Add-on,Add-on,3rd Party Only,Yes,Twilio Markup,Yes,No,Yes
+Interactive Proposal Builder,Yes (Included),CPQ Add-on ($75+),Locked to Pro,Zoho Docs / Books,No,Smart Docs ($32/mo),No,Yes,Yes,No,No
+Digital E-Signatures,Yes (Included),Add-on ($$$),Locked to Pro,Zoho Sign,No,Smart Docs Add-on,No,Yes,Yes,No,No
+Tax-Compliant Invoicing,Yes (GST & Sales Tax),Billing Add-on,Stripe Add-on,Zoho Books Sync,No,Integration Only,No,Yes,Yes,No,No
+AI Call Transcription & Summary,Yes (Included),Agentforce ($$$),Breeze AI ($$$),Zia AI (Enterprise),Freddy AI (Metered),No,Yes ($109+),Metered Add-on,CoPilot ($$$),Call Intelligence ($79),No
+Human-in-the-Loop AI Approvals,Yes (Dedicated HUD),No,No,No,No,No,No,No,No,No,No
+Model Context Protocol (MCP),Yes (77 Tools Live),Documented Only,Documented Only,No,No,No,No,No,No,Public Docs MCP,No
+Pre-built Industry Workspaces,Yes (33+ Verticals),Force.com Custom,Custom Objects ($$$),Zoho Creator ($$$),No,No,No,Agency Sub-accounts,No,Custom Objects ($79),Vertical Packs ($$$)
+Mobile GPS Field Check-ins,Yes (Included),Field Service ($$$),No,Zoho FSM ($$$),No,No,No,No,Basic Mobile,No,Yes (LeadSquared Field)
+Client & Partner Self-Service Portal,Yes (8 Sub-views),Experience Cloud ($$$),Customer Portal ($$$),Client Portal,Customer Portal,No,No,Client Portal,Extranet,Client Portal,Portal Add-on
+Entry Plan List Price,$12 / user / mo,$25 / user / mo,$20 / user / mo,$20 / user / mo,$15 / user / mo,$24 / user / mo,$19 / user / mo,$97 / mo (3 users),$49 / mo (5 users),$35 / user / mo,$25 / user / mo
+Mid-Tier / Standard Price,$12 / user / mo,$100 / user / mo,$95 / user / mo,$35 / user / mo,$39 / user / mo,$49 / user / mo,$49 / user / mo,$297 / mo flat,$99 / mo flat,$79 / user / mo,$60 / user / mo
+Mandatory Onboarding Fee,$0,"$0 - $5,000","$1,500 - $3,500",$0,$0,$0,$0,$0,$0,$0,"$500 - $2,000"
